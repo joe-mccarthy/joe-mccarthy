@@ -1,0 +1,31 @@
+name: Update Profile Readme
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */3 * * *'
+
+permissions:
+    contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update Profile Readme
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: render readme template
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        with:
+          template: "templates/README.md.tpl"
+          writeTo: "README.md"
+
+      - name: Commit README
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'update profile readme'
