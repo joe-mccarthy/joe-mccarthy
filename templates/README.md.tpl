@@ -12,18 +12,17 @@ Software engineer with a passion for learning and experimenting with new technol
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 
-
 #### :rocket: Latest releases I've contributed to
 {{ range recentReleases 5 }}
 - [{{ .Name }}]({{ .URL }}) [`{{ .LastRelease.TagName }}`]({{ .LastRelease.URL }}) - {{.Description}}
 {{- end }}
 
-#### :star2: Recent Stars
+#### :star: Recent Stars
 {{ range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
 #### :loudspeaker: Recent Blog Posts
-{{ range rss "https://joe-mccarthy.github.io/index.xml" 5 }}
+{{ range rss "https://joe-mccarthy.github.io/index.xml" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{humanize .PublishedAt}})
 {{- end }}
