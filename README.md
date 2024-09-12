@@ -4,8 +4,8 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :construction_worker: I'm currently working on
 
-- [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) - Capture images from sunset till sunrise for processing off device.
 - [joe-mccarthy/joe-mccarthy.github.io](https://github.com/joe-mccarthy/joe-mccarthy.github.io) - Personal blog with my general musings. Built with Hugo.
+- [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) - Capture images from sunset till sunrise for processing off device.
 - [joe-mccarthy/nsp-data-sender](https://github.com/joe-mccarthy/nsp-data-sender) - Send completed Night Sky Pi observation off device.
 
 #### :octocat: My latest projects
@@ -27,7 +27,6 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :star2: Recent Stars
 
-- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates. 
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
