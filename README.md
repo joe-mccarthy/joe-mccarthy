@@ -16,7 +16,6 @@ Software engineer with a passion for learning and experimenting with new technol
 - [joe-mccarthy/bootstrap-freelancer](https://github.com/joe-mccarthy/bootstrap-freelancer) - Hugo theme based on the Start Bootstrap Freelancer Theme.
 - [joe-mccarthy/environment-checker](https://github.com/joe-mccarthy/environment-checker) - Write environment data and dew point to csv with a bme280 or openweather.
 
-
 #### :rocket: Latest releases I've contributed to
 
 - [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) [`1.0.0`](https://github.com/joe-mccarthy/night-sky-pi/releases/tag/1.0.0) - Capture images from sunset till sunrise for processing off device.
@@ -25,7 +24,7 @@ Software engineer with a passion for learning and experimenting with new technol
 - [joe-mccarthy/bootstrap-freelancer](https://github.com/joe-mccarthy/bootstrap-freelancer) [`1.0.0`](https://github.com/joe-mccarthy/bootstrap-freelancer/releases/tag/1.0.0) - Hugo theme based on the Start Bootstrap Freelancer Theme.
 - [joe-mccarthy/environment-checker](https://github.com/joe-mccarthy/environment-checker) [`1.0.0`](https://github.com/joe-mccarthy/environment-checker/releases/tag/1.0.0) - Write environment data and dew point to csv with a bme280 or openweather.
 
-#### :star2: Recent Stars
+#### :star: Recent Stars
 
 - [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates. 
@@ -37,5 +36,3 @@ Software engineer with a passion for learning and experimenting with new technol
 - [ChatGPT Thoughts on My Github Account](https://joe-mccarthy.github.io/github-account-thoughts-chatgpt-24-09/) (4 days ago)
 - [ChatGPT Helps Me Write With Dyslexia](https://joe-mccarthy.github.io/dyslexia-and-chatgpt/) (1 week ago)
 - [Esun Ebox Lite](https://joe-mccarthy.github.io/esun-ebox-lite/) (1 week ago)
-- [Back to Github](https://joe-mccarthy.github.io/moving-back-to-github/) (2 weeks ago)
-- [Some Down Time](https://joe-mccarthy.github.io/posts/24/07/july-24/) (1 month ago)
