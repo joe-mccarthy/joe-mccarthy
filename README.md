@@ -4,9 +4,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :construction_worker: I'm currently working on
 
-- [joe-mccarthy/joe-mccarthy.github.io](https://github.com/joe-mccarthy/joe-mccarthy.github.io) - Personal blog with my general musings. Built with Hugo.
 - [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) - Capture images from sunset till sunrise for processing off device.
 - [joe-mccarthy/nsp-data-sender](https://github.com/joe-mccarthy/nsp-data-sender) - Send completed Night Sky Pi observation off device.
+- [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) - Sends notification on binday and what bin needs putting out.
 
 #### :octocat: My latest projects
 
