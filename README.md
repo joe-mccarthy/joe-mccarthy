@@ -26,6 +26,7 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :star: Recent Stars
 
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates. 
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -33,6 +34,6 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :loudspeaker: Recent Blog Posts
 
-- [ChatGPT Thoughts on My Github Account](https://joe-mccarthy.github.io/github-account-thoughts-chatgpt-24-09/) (4 days ago)
+- [ChatGPT Thoughts on My Github Account](https://joe-mccarthy.github.io/github-account-thoughts-chatgpt-24-09/) (5 days ago)
 - [ChatGPT Helps Me Write With Dyslexia](https://joe-mccarthy.github.io/dyslexia-and-chatgpt/) (1 week ago)
 - [Esun Ebox Lite](https://joe-mccarthy.github.io/esun-ebox-lite/) (1 week ago)
