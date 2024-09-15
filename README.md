@@ -4,23 +4,23 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :construction_worker: I'm currently working on
 
+- [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 - [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) - Sends notification on binday and what bin needs putting out.
-- [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) - Capture images from sunset till sunrise for processing off device.
 - [joe-mccarthy/nsp-data-sender](https://github.com/joe-mccarthy/nsp-data-sender) - Send completed Night Sky Pi observation off device.
 
 #### :octocat: My latest projects
 
+- [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 - [joe-mccarthy/nsp-data-sender](https://github.com/joe-mccarthy/nsp-data-sender) - Send completed Night Sky Pi observation off device.
 - [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) - Capture images from sunset till sunrise for processing off device.
 - [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) - Sends notification on binday and what bin needs putting out.
 - [joe-mccarthy/bootstrap-freelancer](https://github.com/joe-mccarthy/bootstrap-freelancer) - Hugo theme based on the Start Bootstrap Freelancer Theme.
-- [joe-mccarthy/environment-checker](https://github.com/joe-mccarthy/environment-checker) - Write environment data and dew point to csv with a bme280 or openweather.
 
 #### :rocket: Latest releases I've contributed to
 
+- [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) [`2.0.0`](https://github.com/joe-mccarthy/harlow-bindicator/releases/tag/2.0.0) - Sends notification on binday and what bin needs putting out.
 - [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) [`1.0.0`](https://github.com/joe-mccarthy/night-sky-pi/releases/tag/1.0.0) - Capture images from sunset till sunrise for processing off device.
 - [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) [`1.1.1`](https://github.com/joe-mccarthy/smigle-lite/releases/tag/1.1.1) - Hugo theme based on a stripped down version of Smigle.
-- [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) [`1.0.0`](https://github.com/joe-mccarthy/harlow-bindicator/releases/tag/1.0.0) - Sends notification on binday and what bin needs putting out.
 - [joe-mccarthy/bootstrap-freelancer](https://github.com/joe-mccarthy/bootstrap-freelancer) [`1.0.0`](https://github.com/joe-mccarthy/bootstrap-freelancer/releases/tag/1.0.0) - Hugo theme based on the Start Bootstrap Freelancer Theme.
 - [joe-mccarthy/environment-checker](https://github.com/joe-mccarthy/environment-checker) [`1.0.0`](https://github.com/joe-mccarthy/environment-checker/releases/tag/1.0.0) - Write environment data and dew point to csv with a bme280 or openweather.
 
