@@ -34,6 +34,6 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :loudspeaker: Recent Blog Posts
 
-- [ChatGPT Thoughts on My Github Account](https://joe-mccarthy.github.io/github-account-thoughts-chatgpt-24-09/) (6 days ago)
+- [ChatGPT Thoughts on My Github Account](https://joe-mccarthy.github.io/github-account-thoughts-chatgpt-24-09/) (1 week ago)
 - [ChatGPT Helps Me Write With Dyslexia](https://joe-mccarthy.github.io/dyslexia-and-chatgpt/) (1 week ago)
 - [Esun Ebox Lite](https://joe-mccarthy.github.io/esun-ebox-lite/) (2 weeks ago)
