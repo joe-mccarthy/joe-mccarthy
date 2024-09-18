@@ -28,9 +28,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
 - [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) - Java rate limiting library based on token-bucket algorithm.
-- [hardikSinghBehl/rate-limiting-api-spring-boot](https://github.com/hardikSinghBehl/rate-limiting-api-spring-boot) - Rate limiting private APIs with Token Bucket Algorithm employing Bucket4J, Redis and Spring Security.
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
+- [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 
 #### :loudspeaker: Recent Blog Posts
 
