@@ -26,3 +26,10 @@ Software engineer with a passion for learning and experimenting with new technol
 {{ range rss "https://joe-mccarthy.github.io/index.xml" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{humanize .PublishedAt}})
 {{- end }}
+
+#### :books: Currently Reading
+
+{{range literalClubCurrentlyReading 5}}
+- {{.Title}} - {{.Subtitle}} - {{.Description}} - https://literal.club/joe-mccarhty/book/{{.Slug}}
+  {{- range .Authors }}{{ .Name }}{{ end }}
+{{- end}}
