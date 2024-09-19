@@ -30,6 +30,6 @@ Software engineer with a passion for learning and experimenting with new technol
 #### :books: Currently Reading
 
 {{range literalClubCurrentlyReading 5}}
-- {{.Title}} - {{.Subtitle}} - {{.Description}} - https://literal.club/joe-mccarhty/book/{{.Slug}}
+- {{.Title}} - {{.Subtitle}} - {{.Description}} - https://literal.club/joe-mccarthy/book/{{.Slug}}
   {{- range .Authors }}{{ .Name }}{{ end }}
 {{- end}}
