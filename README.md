@@ -4,8 +4,8 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :construction_worker: I'm currently working on
 
-- [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) - Capture images from sunset till sunrise for processing off device.
 - [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) - Sends notification on binday and what bin needs putting out.
+- [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) - Capture images from sunset till sunrise for processing off device.
 - [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 
 #### :octocat: My latest projects
@@ -18,7 +18,7 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :rocket: Latest releases I've contributed to
 
-- [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) [`2.0.0`](https://github.com/joe-mccarthy/harlow-bindicator/releases/tag/2.0.0) - Sends notification on binday and what bin needs putting out.
+- [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) [`2.1.0`](https://github.com/joe-mccarthy/harlow-bindicator/releases/tag/2.1.0) - Sends notification on binday and what bin needs putting out.
 - [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) [`1.0.0`](https://github.com/joe-mccarthy/night-sky-pi/releases/tag/1.0.0) - Capture images from sunset till sunrise for processing off device.
 - [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) [`1.1.1`](https://github.com/joe-mccarthy/smigle-lite/releases/tag/1.1.1) - Hugo theme based on a stripped down version of Smigle.
 - [joe-mccarthy/bootstrap-freelancer](https://github.com/joe-mccarthy/bootstrap-freelancer) [`1.0.0`](https://github.com/joe-mccarthy/bootstrap-freelancer/releases/tag/1.0.0) - Hugo theme based on the Start Bootstrap Freelancer Theme.
