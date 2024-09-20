@@ -26,3 +26,7 @@ Software engineer with a passion for learning and experimenting with new technol
 {{ range rss "https://joe-mccarthy.github.io/index.xml" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{humanize .PublishedAt}})
 {{- end }}
+
+#### :books: Recent Reads
+
+- [Nothing: A Very Short Introduction (Frank Close)](https://www.amazon.co.uk/Nothing-Very-Short-Introduction-Introductions/dp/0199225869)
