@@ -34,6 +34,6 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :loudspeaker: Recent Blog Posts
 
-- [Harlow Bindicator Rewrite](https://joe-mccarthy.github.io/simplifying-bindicator-rewrite/) (3 days ago)
+- [Harlow Bindicator Rewrite](https://joe-mccarthy.github.io/simplifying-bindicator-rewrite/) (4 days ago)
 - [ChatGPT Thoughts on My Github Account](https://joe-mccarthy.github.io/github-account-thoughts-chatgpt-24-09/) (1 week ago)
 - [ChatGPT Helps Me Write With Dyslexia](https://joe-mccarthy.github.io/dyslexia-and-chatgpt/) (2 weeks ago)
