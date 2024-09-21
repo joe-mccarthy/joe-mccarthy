@@ -26,11 +26,11 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :star: Recent Stars
 
+- [zalando/logbook](https://github.com/zalando/logbook) - An extensible Java library for HTTP request and response logging
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
 - [bucket4j/bucket4j](https://github.com/bucket4j/bucket4j) - Java rate limiting library based on token-bucket algorithm.
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
-- [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 
 #### :loudspeaker: Recent Blog Posts
 
