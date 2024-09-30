@@ -34,9 +34,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :loudspeaker: Recent Blog Posts
 
-- [Github Private Packages Maven](https://joe-mccarthy.github.io/private-github-maven-packages/) (6 days ago)
-- [Harlow Bindicator Rewrite](https://joe-mccarthy.github.io/simplifying-bindicator-rewrite/) (1 week ago)
-- [ChatGPT Thoughts on My Github Account](https://joe-mccarthy.github.io/github-account-thoughts-chatgpt-24-09/) (2 weeks ago)
+- [Github Private Packages Dependabot](https://joe-mccarthy.github.io/dependabot-with-private-packages/) (today)
+- [Github Private Packages Maven](https://joe-mccarthy.github.io/private-github-maven-packages/) (1 week ago)
+- [Harlow Bindicator Rewrite](https://joe-mccarthy.github.io/simplifying-bindicator-rewrite/) (2 weeks ago)
 
 #### :books: Recent Reads
 
