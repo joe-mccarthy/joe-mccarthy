@@ -34,9 +34,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :loudspeaker: Recent Blog Posts
 
-- [Night Sky Pi Released](https://joe-mccarthy.github.io/night-sky-pi-released/) (6 days ago)
-- [Github Private Packages Docker Containers](https://joe-mccarthy.github.io/private-github-docker-packages/) (1 week ago)
-- [Github Private Packages Dependabot](https://joe-mccarthy.github.io/dependabot-with-private-packages/) (2 weeks ago)
+- [Night Sky Pi Ntfy](https://joe-mccarthy.github.io/night-sky-pi-ntfy/) (today)
+- [Night Sky Pi Released](https://joe-mccarthy.github.io/night-sky-pi-released/) (1 week ago)
+- [Github Private Packages Docker Containers](https://joe-mccarthy.github.io/private-github-docker-packages/) (2 weeks ago)
 
 #### :books: Recent Reads
 
