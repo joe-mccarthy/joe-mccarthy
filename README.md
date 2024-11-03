@@ -26,11 +26,11 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :star: Recent Stars
 
+- [Unidata/MetPy](https://github.com/Unidata/MetPy) - MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data.
 - [MarcGiffing/bucket4j-spring-boot-starter](https://github.com/MarcGiffing/bucket4j-spring-boot-starter) - Spring Boot Starter for Bucket4j
 - [prusa3d/Prusa-Firmware-ESP32-Cam](https://github.com/prusa3d/Prusa-Firmware-ESP32-Cam) - Firmware for ESP32 Cam modules to be used in Prusa Connect
 - [spring-cloud/spring-cloud-sleuth](https://github.com/spring-cloud/spring-cloud-sleuth) - Distributed tracing for spring cloud
 - [colorchestra/smol](https://github.com/colorchestra/smol) - A minimal, monospaced blogging theme for Hugo that respects your privacy and is easy on your bandwidth.
-- [zalando/logbook](https://github.com/zalando/logbook) - An extensible Java library for HTTP request and response logging
 
 #### :loudspeaker: Recent Blog Posts
 
