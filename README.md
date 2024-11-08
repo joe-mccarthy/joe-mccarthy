@@ -40,5 +40,6 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :books: Recent Reads
 
+- [Atomic Habits (James Clear)](https://amzn.eu/d/fv9Q6OA)
 - [A Brief History of Black Holes: And why nearly everything you know about them is wrong (Dr Becky Smethurst)](https://amzn.eu/d/4UPtW5n)
 - [Nothing: A Very Short Introduction (Frank Close)](https://www.amazon.co.uk/Nothing-Very-Short-Introduction-Introductions/dp/0199225869)
