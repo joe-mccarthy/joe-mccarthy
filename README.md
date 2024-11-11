@@ -34,9 +34,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :loudspeaker: Recent Blog Posts
 
-- [Smigle Lite Release](https://joe-mccarthy.github.io/smigle-lite-2024-11/) (6 days ago)
-- [Night Sky Pi Ntfy](https://joe-mccarthy.github.io/night-sky-pi-ntfy/) (2 weeks ago)
-- [Night Sky Pi Released](https://joe-mccarthy.github.io/night-sky-pi-released/) (3 weeks ago)
+- [Fixed Bootstrap Freelancer Release](https://joe-mccarthy.github.io/bootstrap-freelancer-1.1.0) (today)
+- [Smigle Lite Release](https://joe-mccarthy.github.io/smigle-lite-2024-11/) (1 week ago)
+- [Night Sky Pi Ntfy](https://joe-mccarthy.github.io/night-sky-pi-ntfy/) (3 weeks ago)
 
 #### :books: Recent Reads
 
