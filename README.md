@@ -34,7 +34,7 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :loudspeaker: Recent Blog Posts
 
-- [Maven and Java 21](https://joe-mccarthy.github.io/maven-and-java-21/) (1 day ago)
+- [Maven and Java 21](https://joe-mccarthy.github.io/maven-and-java-21/) (2 days ago)
 - [Fixed Bootstrap Freelancer Release](https://joe-mccarthy.github.io/bootstrap-freelancer-1_1_0/) (1 week ago)
 - [Smigle Lite Release](https://joe-mccarthy.github.io/smigle-lite-2024-11/) (2 weeks ago)
 
