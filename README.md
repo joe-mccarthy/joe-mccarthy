@@ -4,9 +4,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :construction_worker: I'm currently working on
 
+- [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) - Hugo theme based on a stripped down version of Smigle.
 - [joe-mccarthy/metmesh](https://github.com/joe-mccarthy/metmesh) - Collect weather data, either for upstream transmission or to act as an aggregator for other servers
 - [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) - Capture images from sunset till sunrise for processing off device.
-- [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) - Sends notification on binday and what bin needs putting out.
 
 #### :octocat: My latest projects
 
