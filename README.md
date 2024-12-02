@@ -34,9 +34,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :loudspeaker: Recent Blog Posts
 
-- [Multiple Python Versions With Tox](https://joe-mccarthy.github.io/multiple-python-versions-with-tox/) (6 days ago)
-- [Maven and Java 21](https://joe-mccarthy.github.io/maven-and-java-21/) (1 week ago)
-- [Fixed Bootstrap Freelancer Release](https://joe-mccarthy.github.io/bootstrap-freelancer-1_1_0/) (2 weeks ago)
+- [Multiple Python Versions With Tox](https://joe-mccarthy.github.io/multiple-python-versions-with-tox/) (1 week ago)
+- [Maven and Java 21](https://joe-mccarthy.github.io/maven-and-java-21/) (2 weeks ago)
+- [Fixed Bootstrap Freelancer Release](https://joe-mccarthy.github.io/bootstrap-freelancer-1_1_0/) (3 weeks ago)
 
 #### :books: Recent Reads
 
