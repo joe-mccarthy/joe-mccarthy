@@ -18,11 +18,11 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :rocket: Latest releases I've contributed to
 
+- [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) [`1.2.0`](https://github.com/joe-mccarthy/smigle-lite/releases/tag/1.2.0) - Hugo theme based on a stripped down version of Smigle.
 - [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) [`1.0.0`](https://github.com/joe-mccarthy/nsp-ntfy/releases/tag/1.0.0) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 - [joe-mccarthy/bootstrap-freelancer](https://github.com/joe-mccarthy/bootstrap-freelancer) [`1.1.0`](https://github.com/joe-mccarthy/bootstrap-freelancer/releases/tag/1.1.0) - Hugo theme based on the Start Bootstrap Freelancer Theme.
 - [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) [`1.1.0`](https://github.com/joe-mccarthy/night-sky-pi/releases/tag/1.1.0) - Capture images from sunset till sunrise for processing off device.
 - [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) [`2.1.0`](https://github.com/joe-mccarthy/harlow-bindicator/releases/tag/2.1.0) - Sends notification on binday and what bin needs putting out.
-- [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) [`1.1.1`](https://github.com/joe-mccarthy/smigle-lite/releases/tag/1.1.1) - Hugo theme based on a stripped down version of Smigle.
 
 #### :star: Recent Stars
 
