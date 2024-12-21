@@ -18,7 +18,7 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :rocket: Latest releases I've contributed to
 
-- [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) [`2.2.0`](https://github.com/joe-mccarthy/harlow-bindicator/releases/tag/2.2.0) - Send alert the day before and on the day of bin collection in Harlow
+- [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) [`test`](https://github.com/joe-mccarthy/harlow-bindicator/releases/tag/test) - Send alert the day before and on the day of bin collection in Harlow
 - [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) [`1.2.0`](https://github.com/joe-mccarthy/smigle-lite/releases/tag/1.2.0) - Hugo theme based on a stripped down version of Smigle.
 - [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) [`1.0.0`](https://github.com/joe-mccarthy/nsp-ntfy/releases/tag/1.0.0) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 - [joe-mccarthy/bootstrap-freelancer](https://github.com/joe-mccarthy/bootstrap-freelancer) [`1.1.0`](https://github.com/joe-mccarthy/bootstrap-freelancer/releases/tag/1.1.0) - Hugo theme based on the Start Bootstrap Freelancer Theme.
