@@ -10,19 +10,19 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :octocat: My latest projects
 
+- [joe-mccarthy/cbujo](https://github.com/joe-mccarthy/cbujo) - Bullet Journal for the CLI
 - [joe-mccarthy/metmesh](https://github.com/joe-mccarthy/metmesh) - Collect weather data, either for upstream transmission or to act as an aggregator.
 - [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 - [joe-mccarthy/nsp-data-sender](https://github.com/joe-mccarthy/nsp-data-sender) - Send completed Night Sky Pi observation off device.
 - [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) - Capture images from sunset till sunrise for processing off device.
-- [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) - Send alert the day before and on the day of bin collection in Harlow
 
 #### :rocket: Latest releases I've contributed to
 
+- [joe-mccarthy/cbujo](https://github.com/joe-mccarthy/cbujo) [`0.0.1`](https://github.com/joe-mccarthy/cbujo/releases/tag/0.0.1) - Bullet Journal for the CLI
 - [joe-mccarthy/metmesh](https://github.com/joe-mccarthy/metmesh) [`0.0.1`](https://github.com/joe-mccarthy/metmesh/releases/tag/0.0.1) - Collect weather data, either for upstream transmission or to act as an aggregator.
 - [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) [`2.0.0`](https://github.com/joe-mccarthy/night-sky-pi/releases/tag/2.0.0) - Capture images from sunset till sunrise for processing off device.
 - [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) [`3.0.0`](https://github.com/joe-mccarthy/harlow-bindicator/releases/tag/3.0.0) - Send alert the day before and on the day of bin collection in Harlow
 - [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) [`1.2.0`](https://github.com/joe-mccarthy/smigle-lite/releases/tag/1.2.0) - Hugo theme based on a stripped down version of Smigle.
-- [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) [`1.0.0`](https://github.com/joe-mccarthy/nsp-ntfy/releases/tag/1.0.0) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 
 #### :star: Recent Stars
 
