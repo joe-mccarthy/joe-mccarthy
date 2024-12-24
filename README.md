@@ -26,11 +26,11 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :star: Recent Stars
 
+- [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [framps/raspberryTools](https://github.com/framps/raspberryTools) - Some useful tools for Raspberry Pi
 - [framps/raspiBackup](https://github.com/framps/raspiBackup) - Create and keep multiple backup versions of your running Raspberries
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia)
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
-- [geerlingguy/pi-kiosk](https://github.com/geerlingguy/pi-kiosk) - A simple Raspberry Pi Kiosk app
 
 #### :loudspeaker: Recent Blog Posts
 
