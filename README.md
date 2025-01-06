@@ -26,15 +26,15 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :star: Recent Stars
 
+- [Nachtzuster/BirdNET-Pi](https://github.com/Nachtzuster/BirdNET-Pi) - A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B&#43; 0W2 and more. Built on the TFLite version of BirdNET.
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [framps/raspberryTools](https://github.com/framps/raspberryTools) - Some useful tools for Raspberry Pi
 - [framps/raspiBackup](https://github.com/framps/raspiBackup) - Create and keep multiple backup versions of your running Raspberries
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia)
-- [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
 
 #### :loudspeaker: Recent Blog Posts
 
-- [Thinking About 2025](https://joe-mccarthy.github.io/thinking-about-2025/) (1 day ago)
+- [Thinking About 2025](https://joe-mccarthy.github.io/thinking-about-2025/) (2 days ago)
 - [Multiple Python Versions With Tox](https://joe-mccarthy.github.io/multiple-python-versions-with-tox/) (1 month ago)
 - [Maven and Java 21](https://joe-mccarthy.github.io/maven-and-java-21/) (1 month ago)
 
