@@ -34,7 +34,7 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :loudspeaker: Recent Blog Posts
 
-- [Thinking About 2025](https://joe-mccarthy.github.io/thinking-about-2025/) (5 days ago)
+- [Thinking About 2025](https://joe-mccarthy.github.io/thinking-about-2025/) (6 days ago)
 - [Multiple Python Versions With Tox](https://joe-mccarthy.github.io/multiple-python-versions-with-tox/) (1 month ago)
 - [Maven and Java 21](https://joe-mccarthy.github.io/maven-and-java-21/) (1 month ago)
 
