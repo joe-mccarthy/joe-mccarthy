@@ -22,9 +22,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :star: Recent Stars
 
+- [chipzoller/hugo-clarity](https://github.com/chipzoller/hugo-clarity) - A theme for Hugo based on VMware Clarity
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
-- [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
 
 #### :loudspeaker: Recent Blog Posts
 
