@@ -22,9 +22,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :star: Recent Stars
 
+- [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
 - [chipzoller/hugo-clarity](https://github.com/chipzoller/hugo-clarity) - A theme for Hugo based on VMware Clarity
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
-- [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 
 #### :loudspeaker: Recent Blog Posts
 
