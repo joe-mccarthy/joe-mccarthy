@@ -4,13 +4,13 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :construction_worker: I'm currently working on
 
-- [joe-mccarthy/home-services](https://github.com/joe-mccarthy/home-services) - 
+- [joe-mccarthy/metmesh](https://github.com/joe-mccarthy/metmesh) - Collect weather data, either for upstream transmission or to act as an aggregator.
+- [joe-mccarthy/home-services](https://github.com/joe-mccarthy/home-services) - Configuration and deployments for home services
 - [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
-- [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) - Send alert the day before and on the day of bin collection in Harlow
 
 #### :octocat: My latest projects
 
-- [joe-mccarthy/home-services](https://github.com/joe-mccarthy/home-services) - 
+- [joe-mccarthy/home-services](https://github.com/joe-mccarthy/home-services) - Configuration and deployments for home services
 - [joe-mccarthy/cbujo](https://github.com/joe-mccarthy/cbujo) - Bullet Journal for the CLI
 - [joe-mccarthy/metmesh](https://github.com/joe-mccarthy/metmesh) - Collect weather data, either for upstream transmission or to act as an aggregator.
 
