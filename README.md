@@ -28,8 +28,8 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :loudspeaker: Recent Blog Posts
 
-- [Workspace Update February 2025](https://joe-mccarthy.github.io/workspace-february-2025-update/) (4 days ago)
-- [2025 Starts With a Rut](https://joe-mccarthy.github.io/starting-2025-in-a-rut/) (1 week ago)
+- [Workspace Update February 2025](https://joe-mccarthy.github.io/workspace-february-2025-update/) (5 days ago)
+- [2025 Starts With a Rut](https://joe-mccarthy.github.io/starting-2025-in-a-rut/) (2 weeks ago)
 - [Thinking About 2025](https://joe-mccarthy.github.io/thinking-about-2025/) (1 month ago)
 
 #### :books: Recent Reads
