@@ -22,13 +22,13 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :star: Recent Stars
 
+- [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
 - [chipzoller/hugo-clarity](https://github.com/chipzoller/hugo-clarity) - A theme for Hugo based on VMware Clarity
-- [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 
 #### :loudspeaker: Recent Blog Posts
 
-- [Workspace Update February 2025](https://joe-mccarthy.github.io/workspace-february-2025-update/) (6 days ago)
+- [Workspace Update February 2025](https://joe-mccarthy.github.io/workspace-february-2025-update/) (1 week ago)
 - [2025 Starts With a Rut](https://joe-mccarthy.github.io/starting-2025-in-a-rut/) (2 weeks ago)
 - [Thinking About 2025](https://joe-mccarthy.github.io/thinking-about-2025/) (1 month ago)
 
