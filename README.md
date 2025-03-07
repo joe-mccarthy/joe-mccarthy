@@ -4,7 +4,7 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :construction_worker: I'm currently working on
 
-- [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
+- [joe-mccarthy/home-services](https://github.com/joe-mccarthy/home-services) - Configuration and deployments for home services
 - [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) - Send alert the day before and on the day of bin collection in Harlow
 - [joe-mccarthy/environment-checker](https://github.com/joe-mccarthy/environment-checker) - Write environment data and dew point to csv with a bme280 or openweather.
 
