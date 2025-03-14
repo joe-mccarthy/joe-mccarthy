@@ -22,9 +22,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :star: Recent Stars
 
+- [simongravelle/simongravelle.github.io](https://github.com/simongravelle/simongravelle.github.io) - Simple hugo academic theme for scientist personal page
 - [TechHutTV/homelab](https://github.com/TechHutTV/homelab) - Homelab stacks, templates, and more fun resources! 
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
-- [dbeley/docker-compose](https://github.com/dbeley/docker-compose) - A collection of docker-compose files focused on self-hosting.
 
 #### :loudspeaker: Recent Blog Posts
 
