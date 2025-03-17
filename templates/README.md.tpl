@@ -29,6 +29,7 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :books: Recent Reads
 
+- [Ripples in Spacetime (Govert Schilling)](https://amzn.eu/d/5G1Qz08)
 - [A Crack in Everything (Marcus Chown)](https://amzn.eu/d/aX7v7ak)
 - [Reality Is Not What It Seems (Carlo Rovelli)](https://amzn.eu/d/bucNLxU)
 - [Atomic Habits (James Clear)](https://amzn.eu/d/fv9Q6OA)
