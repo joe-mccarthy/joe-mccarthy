@@ -22,9 +22,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :star: Recent Stars
 
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [simongravelle/simongravelle.github.io](https://github.com/simongravelle/simongravelle.github.io) - Simple hugo academic theme for scientist personal page
 - [TechHutTV/homelab](https://github.com/TechHutTV/homelab) - Homelab stacks, templates, and more fun resources! 
-- [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 
 #### :loudspeaker: Recent Blog Posts
 
