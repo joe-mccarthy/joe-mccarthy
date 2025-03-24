@@ -22,9 +22,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### :star: Recent Stars
 
+- [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 140 lines of code in total, including HTML and CSS (with no dependencies)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [simongravelle/simongravelle.github.io](https://github.com/simongravelle/simongravelle.github.io) - Simple hugo academic theme for scientist personal page
-- [TechHutTV/homelab](https://github.com/TechHutTV/homelab) - Homelab stacks, templates, and more fun resources! 
 
 #### :loudspeaker: Recent Blog Posts
 
