@@ -5,12 +5,12 @@ Software engineer with a passion for learning and experimenting with new technol
 #### :construction_worker: I'm currently working on
 
 - [joe-mccarthy/metmesh](https://github.com/joe-mccarthy/metmesh) - Collect weather data, either for upstream transmission or to act as an aggregator.
-- [joe-mccarthy/home-services](https://github.com/joe-mccarthy/home-services) - Configuration and deployments for home services
+- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) - Configuration and deployments for home services
 - [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 
 #### :octocat: My latest projects
 
-- [joe-mccarthy/home-services](https://github.com/joe-mccarthy/home-services) - Configuration and deployments for home services
+- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) - Configuration and deployments for home services
 - [joe-mccarthy/cbujo](https://github.com/joe-mccarthy/cbujo) - Bullet Journal for the CLI
 - [joe-mccarthy/metmesh](https://github.com/joe-mccarthy/metmesh) - Collect weather data, either for upstream transmission or to act as an aggregator.
 
