@@ -37,7 +37,3 @@ Software engineer with a passion for learning and experimenting with new technol
 - [Our Accidental Universe (Chris Lintott)](https://amzn.eu/d/hyMlwzR)
 - [Ripples in Spacetime (Govert Schilling)](https://amzn.eu/d/5G1Qz08)
 - [A Crack in Everything (Marcus Chown)](https://amzn.eu/d/aX7v7ak)
-- [Reality Is Not What It Seems (Carlo Rovelli)](https://amzn.eu/d/bucNLxU)
-- [Atomic Habits (James Clear)](https://amzn.eu/d/fv9Q6OA)
-- [A Brief History of Black Holes: And why nearly everything you know about them is wrong (Dr Becky Smethurst)](https://amzn.eu/d/4UPtW5n)
-- [Nothing: A Very Short Introduction (Frank Close)](https://amzn.eu/d/ixDkrAa)
