@@ -1,5 +1,3 @@
-### Hi there 
-
 Software engineer with a passion for learning and experimenting with new technologies. I enjoy tackling challenges and having fun along the way, whether it’s writing code or creating 3D-printed designs. Constantly exploring, building, and evolving through hands-on projects and a curiosity for how things work.
 
 #### I'm currently working on
