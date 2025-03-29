@@ -14,9 +14,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### Latest releases I've contributed to
 
+- [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) [`2.0.0`](https://github.com/joe-mccarthy/nsp-ntfy/releases/tag/2.0.0) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 - [joe-mccarthy/metmesh](https://github.com/joe-mccarthy/metmesh) [`0.0.2`](https://github.com/joe-mccarthy/metmesh/releases/tag/0.0.2) - Collect weather data, either for upstream transmission or to act as an aggregator.
 - [joe-mccarthy/cbujo](https://github.com/joe-mccarthy/cbujo) [`0.0.2`](https://github.com/joe-mccarthy/cbujo/releases/tag/0.0.2) - Bullet Journal for the CLI
-- [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) [`3.0.1`](https://github.com/joe-mccarthy/harlow-bindicator/releases/tag/3.0.1) - Send alert the day before and on the day of bin collection in Harlow
 
 #### Recent Stars
 
