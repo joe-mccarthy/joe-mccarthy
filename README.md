@@ -2,9 +2,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### I'm currently working on
 
+- [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 - [joe-mccarthy/metmesh](https://github.com/joe-mccarthy/metmesh) - Collect weather data, either for upstream transmission or to act as an aggregator.
 - [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) - Hugo theme based on a stripped down version of Smigle.
-- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) - Configuration and deployments for home services
 
 #### My latest projects
 
