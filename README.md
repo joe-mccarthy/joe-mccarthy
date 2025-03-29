@@ -14,9 +14,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### Latest releases I've contributed to
 
+- [joe-mccarthy/environment-checker](https://github.com/joe-mccarthy/environment-checker) [`1.1.0`](https://github.com/joe-mccarthy/environment-checker/releases/tag/1.1.0) - Write environment data and dew point to csv with a bme280 or openweather.
 - [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) [`2.0.0`](https://github.com/joe-mccarthy/nsp-ntfy/releases/tag/2.0.0) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 - [joe-mccarthy/metmesh](https://github.com/joe-mccarthy/metmesh) [`0.0.2`](https://github.com/joe-mccarthy/metmesh/releases/tag/0.0.2) - Collect weather data, either for upstream transmission or to act as an aggregator.
-- [joe-mccarthy/cbujo](https://github.com/joe-mccarthy/cbujo) [`0.0.2`](https://github.com/joe-mccarthy/cbujo/releases/tag/0.0.2) - Bullet Journal for the CLI
 
 #### Recent Stars
 
