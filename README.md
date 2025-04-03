@@ -14,9 +14,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### Latest releases I've contributed to
 
+- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) [`0.1.0`](https://github.com/joe-mccarthy/home-lab/releases/tag/0.1.0) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
 - [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) [`2.0.2`](https://github.com/joe-mccarthy/night-sky-pi/releases/tag/2.0.2) - Capture images from sunset till sunrise for processing off device.
 - [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) [`3.0.2`](https://github.com/joe-mccarthy/harlow-bindicator/releases/tag/3.0.2) - Send alert the day before and on the day of bin collection in Harlow
-- [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) [`2.0.1`](https://github.com/joe-mccarthy/nsp-ntfy/releases/tag/2.0.1) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 
 #### Recent Stars
 
