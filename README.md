@@ -14,15 +14,15 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### Latest releases I've contributed to
 
+- [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) [`2.0.2`](https://github.com/joe-mccarthy/night-sky-pi/releases/tag/2.0.2) - Capture images from sunset till sunrise for processing off device.
+- [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) [`3.0.2`](https://github.com/joe-mccarthy/harlow-bindicator/releases/tag/3.0.2) - Send alert the day before and on the day of bin collection in Harlow
 - [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) [`2.0.1`](https://github.com/joe-mccarthy/nsp-ntfy/releases/tag/2.0.1) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
-- [joe-mccarthy/environment-checker](https://github.com/joe-mccarthy/environment-checker) [`1.1.0`](https://github.com/joe-mccarthy/environment-checker/releases/tag/1.1.0) - Write environment data and dew point to csv with a bme280 or openweather.
-- [joe-mccarthy/metmesh](https://github.com/joe-mccarthy/metmesh) [`0.0.2`](https://github.com/joe-mccarthy/metmesh/releases/tag/0.0.2) - Collect weather data, either for upstream transmission or to act as an aggregator.
 
 #### Recent Stars
 
+- [mirus-ua/hugo-theme-re-terminal](https://github.com/mirus-ua/hugo-theme-re-terminal) - A simple, but reach, retro theme for Hugo
+- [martignoni/hugo-notice](https://github.com/martignoni/hugo-notice) - A Hugo theme component to display nice notices
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
-- [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 140 lines of code in total, including HTML and CSS (with no dependencies)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 
 #### Recent Blog Posts
 
