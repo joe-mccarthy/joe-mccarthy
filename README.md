@@ -8,7 +8,7 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### My latest projects
 
-- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) - Configuration and deployments for home services
+- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
 - [joe-mccarthy/cbujo](https://github.com/joe-mccarthy/cbujo) - Bullet Journal for the CLI
 - [joe-mccarthy/metmesh](https://github.com/joe-mccarthy/metmesh) - Collect weather data, either for upstream transmission or to act as an aggregator.
 
