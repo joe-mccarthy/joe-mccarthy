@@ -20,9 +20,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### Recent Stars
 
+- [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [mirus-ua/hugo-theme-re-terminal](https://github.com/mirus-ua/hugo-theme-re-terminal) - A simple, but reach, retro theme for Hugo
 - [martignoni/hugo-notice](https://github.com/martignoni/hugo-notice) - A Hugo theme component to display nice notices
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 
 #### Recent Blog Posts
 
