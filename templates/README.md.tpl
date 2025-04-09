@@ -27,6 +27,7 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### Recent Reads
 
+- [How to Make an Apple Pie from Scratch (Dr Harry Cliff)](https://amzn.eu/d/0qUkcpK)
 - [Our Accidental Universe (Chris Lintott)](https://amzn.eu/d/hyMlwzR)
 - [Ripples in Spacetime (Govert Schilling)](https://amzn.eu/d/5G1Qz08)
 - [A Crack in Everything (Marcus Chown)](https://amzn.eu/d/aX7v7ak)
