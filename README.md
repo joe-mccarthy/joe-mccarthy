@@ -20,9 +20,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### Recent Stars
 
+- [RichardMidnight/pi-safe](https://github.com/RichardMidnight/pi-safe) - Create your own custom image files
+- [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - Minimal and responsive Hugo theme inspired by the system console, crafted for optimal performance with an average page load time of under one second.
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
-- [mirus-ua/hugo-theme-re-terminal](https://github.com/mirus-ua/hugo-theme-re-terminal) - A simple, but reach, retro theme for Hugo
-- [martignoni/hugo-notice](https://github.com/martignoni/hugo-notice) - A Hugo theme component to display nice notices
 
 #### Recent Blog Posts
 
