@@ -26,9 +26,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### Recent Blog Posts
 
+- [Adventures with Ansible and Docker Swarm](https://joe-mccarthy.github.io/automated-homelab-with-ansible-docker-swarm/) (today)
 - [The Pi That Saved My Projects](https://joe-mccarthy.github.io/creating-a-working-environment-for-productivity/) (2 weeks ago)
 - [Fixing My Sad Little Office](https://joe-mccarthy.github.io/workspace-february-2025-update/) (1 month ago)
-- [Well, 2025 is off to a crappy start](https://joe-mccarthy.github.io/starting-2025-in-a-rut/) (2 months ago)
 
 #### Recent Reads
 
