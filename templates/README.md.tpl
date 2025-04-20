@@ -1,33 +1,48 @@
-Software engineer with a passion for learning and experimenting with new technologies. I enjoy tackling challenges and having fun along the way, whether it’s writing code or creating 3D-printed designs. Constantly exploring, building, and evolving through hands-on projects and a curiosity for how things work.
+# Hello, I'm Joseph McCarthy 👋
 
-#### I'm currently working on
+## Innovative Software Engineer | Space Enthusiast | Maker
+
+Passionate software engineer with a focus on Java and Python development, solving complex problems through elegant solutions. I thrive on exploring space-related technologies and transforming ideas into functional, efficient code. Beyond the keyboard, I design and create 3D-printed innovations, constantly pushing the boundaries of what's possible. My approach combines technical expertise with creative thinking, constantly tinkering with systems and pushing boundaries, comfortable with the occasional broken build that leads to deeper understanding.
+
+### 🔭 Current Focus
 {{ range recentContributions 3 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
-#### My latest projects
+### 🚀 Latest Projects
 {{ range recentRepos 3}}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 
-#### Latest releases I've contributed to
+### 🛠️ Technical Skills
+- **Languages**: Java, Python, SQL, Scala
+- **Backend**: Spring Boot, Django, Flask, API Design, Microservices
+- **Space & Science**: Astrophysics Knowledge, Satellite Data Analysis, Space Systems
+- **DevOps**: Docker, Kubernetes, AWS, CI/CD Pipelines, Infrastructure as Code
+- **3D Technology**: Fusion 360, Blender, FDM/Resin Printing, Custom Design
+- **Systems**: Linux, Networking, Database Design, Performance Optimization
+- **Learning Philosophy**: Experimental approach, Continuous improvement, Failure-as-feedback
+
+### 📦 Latest Releases
 {{ range recentReleases 3 }}
 - [{{ .Name }}]({{ .URL }}) [`{{ .LastRelease.TagName }}`]({{ .LastRelease.URL }}) - {{.Description}}
 {{- end }}
 
-#### Recent Stars
+### ⭐ Recent Discoveries
 {{ range recentStars 3 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
-#### Recent Blog Posts
+### 📝 From My Blog
 {{ range rss "https://joe-mccarthy.github.io/index.xml" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{humanize .PublishedAt}})
 {{- end }}
 
-#### Recent Reads
-
+### 📚 Recently Read
 - [How to Make an Apple Pie from Scratch (Dr Harry Cliff)](https://amzn.eu/d/0qUkcpK)
 - [Our Accidental Universe (Chris Lintott)](https://amzn.eu/d/hyMlwzR)
 - [Ripples in Spacetime (Govert Schilling)](https://amzn.eu/d/5G1Qz08)
 - [A Crack in Everything (Marcus Chown)](https://amzn.eu/d/aX7v7ak)
+
+---
+*Want to know more? Connect with me or check out my projects above!*
