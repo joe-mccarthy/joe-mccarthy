@@ -1,3 +1,5 @@
+![Joe McCarthy - Software Engineer, Space Enthusiast, Maker](assets/banner.png)
+
 # Hello, I'm Joe McCarthy 👋
 
 ## Software Engineer | Space Enthusiast | Maker
