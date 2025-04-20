@@ -42,6 +42,3 @@ Software engineer focused on Java and Python development, working to solve inter
 - [How to Make an Apple Pie from Scratch (Dr Harry Cliff)](https://amzn.eu/d/0qUkcpK)
 - [Our Accidental Universe (Chris Lintott)](https://amzn.eu/d/hyMlwzR)
 - [Ripples in Spacetime (Govert Schilling)](https://amzn.eu/d/5G1Qz08)
-
----
-*Want to know more? Connect with me or check out my projects above!*
