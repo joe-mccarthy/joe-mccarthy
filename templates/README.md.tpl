@@ -1,8 +1,8 @@
 # Hello, I'm Joseph McCarthy 👋
 
-## Innovative Software Engineer | Space Enthusiast | Maker
+## Software Engineer | Space Enthusiast | Maker
 
-Passionate software engineer with a focus on Java and Python development, solving complex problems through elegant solutions. I thrive on exploring space-related technologies and transforming ideas into functional, efficient code. Beyond the keyboard, I design and create 3D-printed innovations, constantly pushing the boundaries of what's possible. My approach combines technical expertise with creative thinking, constantly tinkering with systems and pushing boundaries, comfortable with the occasional broken build that leads to deeper understanding.
+Software engineer focused on Java and Python development, working to solve interesting problems through clean code. I enjoy learning about space-related technologies and applying this knowledge in my projects. In my free time, I experiment with 3D printing and design - creating practical solutions and sometimes just fun objects. I believe in continuous learning through experimentation, and I'm not afraid of the occasional broken build that leads to better understanding.
 
 ### 🔭 Current Focus
 {{ range recentContributions 3 }}
