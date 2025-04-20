@@ -1,23 +1,9 @@
-![Joe McCarthy - Software Engineer, Space Enthusiast, Maker](assets/banner.png)
 
 # Hello, I'm Joe McCarthy 👋
 
 ## Software Engineer | Space Enthusiast | Maker
 
 Software engineer focused on Java and Python development, working to solve interesting problems through clean code. I enjoy learning about space-related technologies and applying this knowledge in my projects. In my free time, I experiment with 3D printing and design - creating practical solutions and sometimes just fun objects. I believe in continuous learning through experimentation, and I'm not afraid of the occasional broken build that leads to better understanding.
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joe-mccarthy)
-[![Mastodon](https://img.shields.io/badge/mastodon-%236364FF.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@spudlab)
-[![Blog](https://img.shields.io/badge/Blog-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white)](https://joe-mccarthy.github.io)
-[![Printables](https://img.shields.io/badge/Printables-%23FA6831.svg?style=for-the-badge&logo=prusaslicer&logoColor=white)](https://www.printables.com/@joe_mccarthy)
 
 ### 🔭 Current Focus
 {{ range recentContributions 3 }}
