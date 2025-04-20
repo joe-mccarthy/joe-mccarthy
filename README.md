@@ -1,4 +1,4 @@
-# Hello, I'm Joseph McCarthy 👋
+# Hello, I'm Joe McCarthy 👋
 
 ## Software Engineer | Space Enthusiast | Maker
 
