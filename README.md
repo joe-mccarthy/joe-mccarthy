@@ -20,9 +20,9 @@ Software engineer with a passion for learning and experimenting with new technol
 
 #### Recent Stars
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [RichardMidnight/pi-safe](https://github.com/RichardMidnight/pi-safe) - Create your own custom image files
 - [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - Minimal and responsive Hugo theme inspired by the system console, crafted for optimal performance with an average page load time of under one second.
-- [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 
 #### Recent Blog Posts
 
