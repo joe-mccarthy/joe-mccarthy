@@ -40,7 +40,7 @@ I'm a firm believer in continuous learning through experimentation, and I'm not 
 
 ### 📝 From My Blog
 
-- [Adventures with Ansible and Docker Swarm](https://joe-mccarthy.github.io/automated-homelab-with-ansible-docker-swarm/) (6 days ago)
+- [Adventures with Ansible and Docker Swarm](https://joe-mccarthy.github.io/automated-homelab-with-ansible-docker-swarm/) (1 week ago)
 - [The Pi That Saved My Projects](https://joe-mccarthy.github.io/creating-a-working-environment-for-productivity/) (3 weeks ago)
 - [Fixing My Sad Little Office](https://joe-mccarthy.github.io/workspace-february-2025-update/) (2 months ago)
 
