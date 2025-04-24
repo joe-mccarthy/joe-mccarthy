@@ -9,8 +9,8 @@ I'm a firm believer in continuous learning through experimentation, and I'm not 
 ### 🔭 Current Focus
 
 - [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) - Send alert the day before and on the day of bin collection in Harlow
+- [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) - Hugo theme based on a stripped down version of Smigle.
 - [joe-mccarthy/metmesh](https://github.com/joe-mccarthy/metmesh) - Collect weather data, either for upstream transmission or to act as an aggregator.
-- [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) - Capture images from sunset till sunrise for processing off device.
 
 ### 🚀 Latest Projects
 
@@ -34,9 +34,9 @@ I'm a firm believer in continuous learning through experimentation, and I'm not 
 
 ### ⭐ Recent Discoveries
 
+- [XavierBerger/RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor) - Real time monitoring for embedded devices
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [RichardMidnight/pi-safe](https://github.com/RichardMidnight/pi-safe) - Create your own custom image files
-- [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - Minimal and responsive Hugo theme inspired by the system console, crafted for optimal performance with an average page load time of under one second.
 
 ### 📝 From My Blog
 
