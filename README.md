@@ -8,9 +8,9 @@ I'm a firm believer in continuous learning through experimentation, and I'm not 
 
 ### 🔭 Current Focus
 
+- [joe-mccarthy/metmesh](https://github.com/joe-mccarthy/metmesh) - Collect weather data, either for upstream transmission or to act as an aggregator.
 - [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) - Send alert the day before and on the day of bin collection in Harlow
 - [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) - Hugo theme based on a stripped down version of Smigle.
-- [joe-mccarthy/metmesh](https://github.com/joe-mccarthy/metmesh) - Collect weather data, either for upstream transmission or to act as an aggregator.
 
 ### 🚀 Latest Projects
 
