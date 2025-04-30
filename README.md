@@ -40,7 +40,7 @@ I'm a firm believer in continuous learning through experimentation, and I'm not 
 
 ### 📝 From My Blog
 
-- [Internet Failover with a Netgear LM1200](https://joe-mccarthy.github.io/posts/25/04/internet-failover-netgear-lm1200/) (6 days ago)
+- [Internet Failover with a Netgear LM1200](https://joe-mccarthy.github.io/posts/25/04/internet-failover-netgear-lm1200/) (1 week ago)
 - [Adventures with Ansible and Docker Swarm](https://joe-mccarthy.github.io/automated-homelab-with-ansible-docker-swarm/) (2 weeks ago)
 - [The Pi That Saved My Projects](https://joe-mccarthy.github.io/creating-a-working-environment-for-productivity/) (1 month ago)
 
