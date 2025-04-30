@@ -34,9 +34,9 @@ I'm a firm believer in continuous learning through experimentation, and I'm not 
 
 ### ⭐ Recent Discoveries
 
+- [pmichaillat/hugo-website](https://github.com/pmichaillat/hugo-website) - Minimalist Hugo template for academic websites
 - [XavierBerger/RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor) - Real time monitoring for embedded devices
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [RichardMidnight/pi-safe](https://github.com/RichardMidnight/pi-safe) - Create your own custom image files
 
 ### 📝 From My Blog
 
