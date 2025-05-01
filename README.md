@@ -40,7 +40,7 @@ I'm a firm believer in continuous learning through experimentation, and I'm not 
 
 ### 📝 From My Blog
 
-- [GitHub add to Projects Automation](https://joe-mccarthy.github.io/posts/25/04/github-add-to-projects-automation/) (today)
+- [GitHub add to Projects Automation](https://joe-mccarthy.github.io/posts/25/04/github-add-to-projects-automation/) (1 day ago)
 - [Internet Failover with a Netgear LM1200](https://joe-mccarthy.github.io/posts/25/04/internet-failover-netgear-lm1200/) (1 week ago)
 - [Adventures with Ansible and Docker Swarm](https://joe-mccarthy.github.io/automated-homelab-with-ansible-docker-swarm/) (2 weeks ago)
 
