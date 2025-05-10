@@ -34,9 +34,9 @@ I'm a firm believer in continuous learning through experimentation, and I'm not 
 
 ### ⭐ Recent Discoveries
 
+- [dperson/samba](https://github.com/dperson/samba) - Samba docker container
 - [anothrNick/github-tag-action](https://github.com/anothrNick/github-tag-action) - A Github Action to tag a repo on merge.
 - [pmichaillat/hugo-website](https://github.com/pmichaillat/hugo-website) - Minimalist Hugo template for academic websites
-- [XavierBerger/RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor) - Real time monitoring for embedded devices
 
 ### 📝 From My Blog
 
