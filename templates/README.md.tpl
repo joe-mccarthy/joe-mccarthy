@@ -35,7 +35,7 @@ I'm a firm believer in continuous learning through experimentation, and I'm not 
 {{- end }}
 
 ### 📝 From My Blog
-{{ range rss "https://joe-mccarthy.github.io/index.xml" 3 }}
+{{ range rss "https://blog.spudlab.xyz/index.xml" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{humanize .PublishedAt}})
 {{- end }}
 
