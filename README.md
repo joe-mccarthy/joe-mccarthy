@@ -40,7 +40,7 @@ I'm a firm believer in continuous learning through experimentation, and I'm not 
 
 ### 📝 From My Blog
 
-- [Distraction-Free Computing Experience One Month On](https://blog.spudlab.xyz/distrcation-free-computing-experience-one-month-on/) (5 days ago)
+- [Distraction-Free Computing Experience One Month On](https://blog.spudlab.xyz/distrcation-free-computing-experience-one-month-on/) (6 days ago)
 - [GitHub add to Projects Automation](https://blog.spudlab.xyz/github-add-to-projects-automation/) (1 week ago)
 - [Internet Failover with a Netgear LM1200](https://blog.spudlab.xyz/internet-failover-netgear-lm1200/) (2 weeks ago)
 
