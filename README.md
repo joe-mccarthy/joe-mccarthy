@@ -34,9 +34,9 @@ I'm a firm believer in continuous learning through experimentation, and I'm not 
 
 ### ⭐ Recent Discoveries
 
+- [nodejh/hugo-theme-mini](https://github.com/nodejh/hugo-theme-mini) - A fast, minimalist and responsive hugo theme for bloggers.
 - [dperson/samba](https://github.com/dperson/samba) - Samba docker container
 - [anothrNick/github-tag-action](https://github.com/anothrNick/github-tag-action) - A Github Action to tag a repo on merge.
-- [pmichaillat/hugo-website](https://github.com/pmichaillat/hugo-website) - Minimalist Hugo template for academic websites
 
 ### 📝 From My Blog
 
