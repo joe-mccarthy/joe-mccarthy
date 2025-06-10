@@ -8,8 +8,8 @@ I'm a firm believer in continuous learning through experimentation, and I'm not 
 
 ### 🔭 Current Focus
 
-- [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) - Capture images from sunset till sunrise for processing off device.
 - [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) - Send alert the day before and on the day of bin collection in Harlow
+- [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) - Capture images from sunset till sunrise for processing off device.
 - [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 
 ### 🚀 Latest Projects
