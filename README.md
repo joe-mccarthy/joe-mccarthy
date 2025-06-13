@@ -28,7 +28,7 @@ I'm a firm believer in continuous learning through experimentation, and I'm not 
 
 ### 📦 Latest Releases
 
-- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) [`1.0.0`](https://github.com/joe-mccarthy/home-lab/releases/tag/1.0.0) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
+- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) [`1.1.0`](https://github.com/joe-mccarthy/home-lab/releases/tag/1.1.0) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
 - [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) [`3.1.0`](https://github.com/joe-mccarthy/harlow-bindicator/releases/tag/3.1.0) - Send alert the day before and on the day of bin collection in Harlow
 - [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) [`2.0.2`](https://github.com/joe-mccarthy/night-sky-pi/releases/tag/2.0.2) - Capture images from sunset till sunrise for processing off device.
 
