@@ -34,9 +34,9 @@ I'm a firm believer in continuous learning through experimentation, and I'm not 
 
 ### ⭐ Recent Discoveries
 
+- [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 - [JaredC01/LabStack](https://github.com/JaredC01/LabStack) - Modular rackmount solutions for Raspberry Pi&#39;s and other SBC&#39;s and accessories.
 - [nodejh/hugo-theme-mini](https://github.com/nodejh/hugo-theme-mini) - A fast, minimalist and responsive hugo theme for bloggers.
-- [dperson/samba](https://github.com/dperson/samba) - Samba docker container
 
 ### 📝 From My Blog
 
