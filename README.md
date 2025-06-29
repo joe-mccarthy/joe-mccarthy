@@ -42,7 +42,7 @@ I'm a firm believer in continuous learning through experimentation, and I'm not 
 
 - [Lake Garda, Espresso, Castles &amp; Chaos](https://blog.spudlab.xyz/lake-garda-family-adventure/) (2 weeks ago)
 - [Distraction-Free Computing Experience One Month On](https://blog.spudlab.xyz/distrcation-free-computing-experience-one-month-on/) (1 month ago)
-- [GitHub add to Projects Automation](https://blog.spudlab.xyz/github-add-to-projects-automation/) (1 month ago)
+- [GitHub add to Projects Automation](https://blog.spudlab.xyz/github-add-to-projects-automation/) (2 months ago)
 
 ### 📚 Recently Read
 - [How to Make an Apple Pie from Scratch (Dr Harry Cliff)](https://amzn.eu/d/0qUkcpK)
