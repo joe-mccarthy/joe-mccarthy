@@ -40,6 +40,6 @@ I'm a firm believer in continuous learning through experimentation, and I'm not 
 {{- end }}
 
 ### 📚 Recently Read
+- [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
 - [How to Make an Apple Pie from Scratch (Dr Harry Cliff)](https://amzn.eu/d/0qUkcpK)
 - [Our Accidental Universe (Chris Lintott)](https://amzn.eu/d/hyMlwzR)
-- [Ripples in Spacetime (Govert Schilling)](https://amzn.eu/d/5G1Qz08)
