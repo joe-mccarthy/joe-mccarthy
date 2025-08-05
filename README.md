@@ -1,10 +1,10 @@
 ## Software Engineer | Space Enthusiast | Maker
 
-Hi there! I'm a software engineer with over a decade of experience focused on Java and Python development. I'm passionate about solving interesting problems through clean, maintainable code and building systems that make a difference. By day, I architect microservices and data pipelines; by night, I'm usually stargazing or learning about the latest developments in anything I can get my hands on. I like to fall into rabbit holes.
+Hi, I’m a software engineer with over ten years of experience in Java and Python. I enjoy tackling challenging problems by writing clean, maintainable code and building systems that have real impact. During the day, I design microservices and data pipelines. Outside of work, I’m usually stargazing or exploring new tech and science topics — I love diving deep into whatever catches my interest.
 
-I've been fascinated by space since childhood, and I try to incorporate this passion into my technical work whenever possible. When I'm not coding or reading about black holes, you'll find me in my workshop tinkering with my 3D printers - creating everything from practical household solutions to detailed cosmic models. I believe making and building helps me think better as a developer.
+Space has fascinated me since I was a kid, and I try to bring that passion into my projects whenever I can. When I’m not coding or reading about black holes, I’m often in my workshop working with 3D printers — making practical stuff or models inspired by the cosmos. I find hands-on building helps me think more creatively as a developer.
 
-I'm a firm believer in continuous learning through experimentation, and I'm not afraid of the occasional broken build that leads to better understanding. I enjoy sharing what I learn and collaborating with others who are equally curious about technology and the universe.
+I believe in learning by doing, and I’m comfortable with the occasional broken build if it means gaining a better understanding. I also enjoy sharing what I learn and collaborating with others who are curious about tech and the universe.
 
 ### 🔭 Current Focus
 
