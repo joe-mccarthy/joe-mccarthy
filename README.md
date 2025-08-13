@@ -8,9 +8,9 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### 🔭 Current Focus
 
+- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
 - [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) - Capture images from sunset till sunrise for processing off device.
 - [joe-mccarthy/metmesh](https://github.com/joe-mccarthy/metmesh) - Collect weather data, either for upstream transmission or to act as an aggregator.
-- [joe-mccarthy/harlow-bindicator](https://github.com/joe-mccarthy/harlow-bindicator) - Send alert the day before and on the day of bin collection in Harlow
 
 ### 🚀 Latest Projects
 
@@ -28,9 +28,9 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### 📦 Latest Releases
 
+- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) [`2.0.0`](https://github.com/joe-mccarthy/home-lab/releases/tag/2.0.0) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
 - [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) [`2.0.2`](https://github.com/joe-mccarthy/nsp-ntfy/releases/tag/2.0.2) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 - [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) [`2.0.3`](https://github.com/joe-mccarthy/night-sky-pi/releases/tag/2.0.3) - Capture images from sunset till sunrise for processing off device.
-- [joe-mccarthy/metmesh](https://github.com/joe-mccarthy/metmesh) [`0.0.3`](https://github.com/joe-mccarthy/metmesh/releases/tag/0.0.3) - Collect weather data, either for upstream transmission or to act as an aggregator.
 
 ### ⭐ Recent Discoveries
 
