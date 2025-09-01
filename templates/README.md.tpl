@@ -6,11 +6,6 @@ Space has fascinated me since I was a kid, and I try to bring that passion into 
 
 I believe in learning by doing, and I’m comfortable with the occasional broken build if it means gaining a better understanding. I also enjoy sharing what I learn and collaborating with others who are curious about tech and the universe.
 
-### 🔭 Current Focus
-{{ range recentContributions 3 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
-
 ### 🚀 Latest Projects
 {{ range recentRepos 3}}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
