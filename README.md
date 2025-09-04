@@ -1,8 +1,4 @@
-## Software Engineer | Space Enthusiast | Maker
-
 Hi, I’m a software engineer with over ten years of experience in Java and Python. I enjoy tackling challenging problems by writing clean, maintainable code and building systems that have real impact. During the day, I design microservices and data pipelines. Outside of work, I’m usually stargazing or exploring new tech and science topics — I love diving deep into whatever catches my interest.
-
-Space has fascinated me since I was a kid, and I try to bring that passion into my projects whenever I can. When I’m not coding or reading about black holes, I’m often in my workshop working with 3D printers — making practical stuff or models inspired by the cosmos. I find hands-on building helps me think more creatively as a developer.
 
 I believe in learning by doing, and I’m comfortable with the occasional broken build if it means gaining a better understanding. I also enjoy sharing what I learn and collaborating with others who are curious about tech and the universe.
 
@@ -20,9 +16,9 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Stars
 
-- [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 - [JaredC01/LabStack](https://github.com/JaredC01/LabStack) - Modular rackmount solutions for Raspberry Pi&#39;s and other SBC&#39;s and accessories.
 - [nodejh/hugo-theme-mini](https://github.com/nodejh/hugo-theme-mini) - A fast, minimalist and responsive hugo theme for bloggers.
+- [dperson/samba](https://github.com/dperson/samba) - Samba docker container
 
 ### Recent Posts
 
