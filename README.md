@@ -16,9 +16,9 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Stars
 
+- [jdoiro3/mkdocs-multirepo-plugin](https://github.com/jdoiro3/mkdocs-multirepo-plugin) - Build documentation in multiple repos into one site.
 - [JaredC01/LabStack](https://github.com/JaredC01/LabStack) - Modular rackmount solutions for Raspberry Pi&#39;s and other SBC&#39;s and accessories.
 - [nodejh/hugo-theme-mini](https://github.com/nodejh/hugo-theme-mini) - A fast, minimalist and responsive hugo theme for bloggers.
-- [dperson/samba](https://github.com/dperson/samba) - Samba docker container
 
 ### Recent Posts
 
