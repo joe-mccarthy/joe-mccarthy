@@ -22,9 +22,9 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Posts
 
-- [Lake Garda, Espresso, Castles &amp; Chaos](https://blog.spudlab.xyz/lake-garda-family-adventure/) (2 months ago)
-- [Distraction-Free Computing Experience One Month On](https://blog.spudlab.xyz/distrcation-free-computing-experience-one-month-on/) (4 months ago)
-- [GitHub add to Projects Automation](https://blog.spudlab.xyz/github-add-to-projects-automation/) (4 months ago)
+- [Back on the Blog: An Update After a Busy Summer](https://joe-mccarthy.github.io/back-on-the-blog/) (today)
+- [Lake Garda, Espresso, Castles &amp; Chaos](https://joe-mccarthy.github.io/lake-garda-family-adventure/) (3 months ago)
+- [Distraction-Free Computing Experience One Month On](https://joe-mccarthy.github.io/distrcation-free-computing-experience-one-month-on/) (4 months ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
