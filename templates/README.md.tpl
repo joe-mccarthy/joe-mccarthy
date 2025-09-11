@@ -18,7 +18,7 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 {{- end }}
 
 ### Recent Posts
-{{ range rss "https://blog.spudlab.xyz/index.xml" 3 }}
+{{ range rss "https://joe-mccarthy.github.io/index.xml" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{humanize .PublishedAt}})
 {{- end }}
 
