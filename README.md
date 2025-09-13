@@ -22,7 +22,7 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Posts
 
-- [Back on the Blog: An Update After a Busy Summer](https://joe-mccarthy.github.io/back-on-the-blog/) (1 day ago)
+- [Back on the Blog: An Update After a Busy Summer](https://joe-mccarthy.github.io/back-on-the-blog/) (2 days ago)
 - [Lake Garda, Espresso, Castles &amp; Chaos](https://joe-mccarthy.github.io/lake-garda-family-adventure/) (3 months ago)
 - [Distraction-Free Computing Experience One Month On](https://joe-mccarthy.github.io/distrcation-free-computing-experience-one-month-on/) (4 months ago)
 
