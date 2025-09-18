@@ -16,15 +16,15 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Stars
 
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [jdoiro3/mkdocs-multirepo-plugin](https://github.com/jdoiro3/mkdocs-multirepo-plugin) - Build documentation in multiple repos into one site.
 - [JaredC01/LabStack](https://github.com/JaredC01/LabStack) - Modular rackmount solutions for Raspberry Pi&#39;s and other SBC&#39;s and accessories.
-- [nodejh/hugo-theme-mini](https://github.com/nodejh/hugo-theme-mini) - A fast, minimalist and responsive hugo theme for bloggers.
 
 ### Recent Posts
 
-- [Back on the Blog: An Update After a Busy Summer](https://joe-mccarthy.github.io/back-on-the-blog/) (6 days ago)
-- [Lake Garda, Espresso, Castles &amp; Chaos](https://joe-mccarthy.github.io/lake-garda-family-adventure/) (3 months ago)
-- [Distraction-Free Computing Experience One Month On](https://joe-mccarthy.github.io/distrcation-free-computing-experience-one-month-on/) (4 months ago)
+- [Back on the Blog: An Update After a Busy Summer](https://joe-mccarthy.github.io/back-on-the-blog/) (1 week ago)
+- [Lake Garda: Espresso, Castles, Chaos](https://joe-mccarthy.github.io/lake-garda-espresso-castles-chaos/) (3 months ago)
+- [One Month on a Raspberry Pi 5](https://joe-mccarthy.github.io/one-month-on-raspberry-pi-5/) (4 months ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
