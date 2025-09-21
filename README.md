@@ -22,9 +22,9 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Posts
 
+- [Optimising My Office Climate with Home Assistant](https://joe-mccarthy.github.io/office-climate-home-assistant/) (today)
 - [Back on the Blog: An Update After a Busy Summer](https://joe-mccarthy.github.io/back-on-the-blog/) (1 week ago)
 - [Lake Garda: Espresso, Castles, Chaos](https://joe-mccarthy.github.io/lake-garda-espresso-castles-chaos/) (3 months ago)
-- [One Month on a Raspberry Pi 5](https://joe-mccarthy.github.io/one-month-on-raspberry-pi-5/) (4 months ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
