@@ -22,7 +22,7 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Posts
 
-- [Optimising My Office Climate with Home Assistant](https://joe-mccarthy.github.io/office-climate-home-assistant/) (today)
+- [Optimising My Office Climate with Home Assistant](https://joe-mccarthy.github.io/office-climate-home-assistant/) (1 day ago)
 - [Back on the Blog: An Update After a Busy Summer](https://joe-mccarthy.github.io/back-on-the-blog/) (1 week ago)
 - [Lake Garda: Espresso, Castles, Chaos](https://joe-mccarthy.github.io/lake-garda-espresso-castles-chaos/) (3 months ago)
 
