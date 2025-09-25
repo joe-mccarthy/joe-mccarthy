@@ -22,8 +22,8 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Posts
 
-- [Optimising My Office Climate with Home Assistant](https://joe-mccarthy.github.io/office-climate-home-assistant/) (3 days ago)
-- [Back on the Blog: An Update After a Busy Summer](https://joe-mccarthy.github.io/back-on-the-blog/) (1 week ago)
+- [Optimising My Office Climate with Home Assistant](https://joe-mccarthy.github.io/office-climate-home-assistant/) (4 days ago)
+- [Back on the Blog: An Update After a Busy Summer](https://joe-mccarthy.github.io/back-on-the-blog/) (2 weeks ago)
 - [Lake Garda: Espresso, Castles, Chaos](https://joe-mccarthy.github.io/lake-garda-espresso-castles-chaos/) (3 months ago)
 
 ### Recently Reads
