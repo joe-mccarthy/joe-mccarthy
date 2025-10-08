@@ -22,8 +22,8 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Posts
 
-- [Backups with Restic on AWS: Setup, Restore, and Retention](https://joe-mccarthy.github.io/restic-backups-on-aws/) (4 days ago)
-- [Home Lab: What Changed Since 1.0.0](https://joe-mccarthy.github.io/home-lab-changes-since-1-0-0/) (1 week ago)
+- [Backups with Restic on AWS](https://joe-mccarthy.github.io/restic-backups-on-aws/) (4 days ago)
+- [Home Lab Changes Since 1.0.0](https://joe-mccarthy.github.io/home-lab-changes-since-1-0-0/) (1 week ago)
 - [Optimising My Office Climate with Home Assistant](https://joe-mccarthy.github.io/office-climate-home-assistant/) (2 weeks ago)
 
 ### Recently Reads
