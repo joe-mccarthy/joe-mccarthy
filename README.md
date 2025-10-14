@@ -22,7 +22,7 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Posts
 
-- [Commit Messages and PR Descriptions That Help Everyone](https://joe-mccarthy.github.io/better-commit-messages-and-prs/) (1 day ago)
+- [Commit Messages and PR Descriptions That Help Everyone](https://joe-mccarthy.github.io/better-commit-messages-and-prs/) (2 days ago)
 - [Backups with Restic on AWS](https://joe-mccarthy.github.io/restic-backups-on-aws/) (1 week ago)
 - [Home Lab Changes Since 1.0.0](https://joe-mccarthy.github.io/home-lab-changes-since-1-0-0/) (2 weeks ago)
 
