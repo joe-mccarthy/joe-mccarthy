@@ -10,7 +10,7 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Latest Releases
 
-- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) [`2.1.0`](https://github.com/joe-mccarthy/home-lab/releases/tag/2.1.0) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
+- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) [`2.1.1`](https://github.com/joe-mccarthy/home-lab/releases/tag/2.1.1) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
 - [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) [`2.0.2`](https://github.com/joe-mccarthy/nsp-ntfy/releases/tag/2.0.2) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 - [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) [`2.0.3`](https://github.com/joe-mccarthy/night-sky-pi/releases/tag/2.0.3) - Capture images from sunset till sunrise for processing off device.
 
@@ -22,9 +22,9 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Posts
 
-- [Commit Messages and PR Descriptions That Help Everyone](https://joe-mccarthy.github.io/better-commit-messages-and-prs/) (1 week ago)
+- [Commit Messages and PR Descriptions That Help Everyone](https://joe-mccarthy.github.io/better-commit-messages-and-prs/) (2 weeks ago)
 - [Backups with Restic on AWS](https://joe-mccarthy.github.io/restic-backups-on-aws/) (3 weeks ago)
-- [Home Lab Changes Since 1.0.0](https://joe-mccarthy.github.io/home-lab-changes-since-1-0-0/) (4 weeks ago)
+- [Home Lab Changes Since 1.0.0](https://joe-mccarthy.github.io/home-lab-changes-since-1-0-0/) (1 month ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
