@@ -22,7 +22,7 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Posts
 
-- [Release Notes and Versioning That Help Everyone](https://blog.spudlab.xyz/better-release-notes-and-versioning/) (1 day ago)
+- [Release Notes and Versioning That Help Everyone](https://blog.spudlab.xyz/better-release-notes-and-versioning/) (2 days ago)
 - [Commit Messages and PR Descriptions That Help Everyone](https://blog.spudlab.xyz/better-commit-messages-and-prs/) (2 weeks ago)
 - [Backups with Restic on AWS](https://blog.spudlab.xyz/restic-backups-on-aws/) (3 weeks ago)
 
