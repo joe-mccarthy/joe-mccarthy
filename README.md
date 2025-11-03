@@ -4,8 +4,8 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Posts
 
-- [Home Assistant Progress November 2025](https://blog.spudlab.xyz/home-assistant-rebuild-progress/) (today)
-- [Release Notes and Versioning That Help Everyone](https://blog.spudlab.xyz/better-release-notes-and-versioning/) (4 days ago)
+- [Home Assistant Progress November 2025](https://blog.spudlab.xyz/home-assistant-rebuild-progress/) (1 day ago)
+- [Release Notes and Versioning That Help Everyone](https://blog.spudlab.xyz/better-release-notes-and-versioning/) (5 days ago)
 - [Commit Messages and PR Descriptions That Help Everyone](https://blog.spudlab.xyz/better-commit-messages-and-prs/) (3 weeks ago)
 
 ### Recently Reads
