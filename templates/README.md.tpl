@@ -2,6 +2,21 @@ Hi, I’m a software engineer with over ten years of experience in Java and Pyth
 
 I believe in learning by doing, and I’m comfortable with the occasional broken build if it means gaining a better understanding. I also enjoy sharing what I learn and collaborating with others who are curious about tech and the universe.
 
+### Latest Projects
+{{ range recentRepos 3}}
+- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{- end }}
+
+### Latest Releases
+{{ range recentReleases 3 }}
+- [{{ .Name }}]({{ .URL }}) [`{{ .LastRelease.TagName }}`]({{ .LastRelease.URL }}) - {{.Description}}
+{{- end }}
+
+### Recent Stars
+{{ range recentStars 3 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
+
 ### Recent Posts
 {{ range rss "https://blog.spudlab.xyz/index.xml" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{humanize .PublishedAt}})
