@@ -2,6 +2,24 @@ Hi, I’m a software engineer with over ten years of experience in Java and Pyth
 
 I believe in learning by doing, and I’m comfortable with the occasional broken build if it means gaining a better understanding. I also enjoy sharing what I learn and collaborating with others who are curious about tech and the universe.
 
+### Latest Projects
+
+- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
+- [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
+- [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) - Capture images from sunset till sunrise for processing off device.
+
+### Latest Releases
+
+- [joe-mccarthy/bootstrap-freelancer](https://github.com/joe-mccarthy/bootstrap-freelancer) [`2.0.0`](https://github.com/joe-mccarthy/bootstrap-freelancer/releases/tag/2.0.0) - Hugo theme based on the Start Bootstrap Freelancer Theme.
+- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) [`2.1.1`](https://github.com/joe-mccarthy/home-lab/releases/tag/2.1.1) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
+- [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) [`2.0.2`](https://github.com/joe-mccarthy/nsp-ntfy/releases/tag/2.0.2) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
+
+### Recent Stars
+
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [jdoiro3/mkdocs-multirepo-plugin](https://github.com/jdoiro3/mkdocs-multirepo-plugin) - Build documentation in multiple repos into one site.
+- [JaredC01/LabStack](https://github.com/JaredC01/LabStack) - Modular rackmount solutions for Raspberry Pi&#39;s and other SBC&#39;s and accessories.
+
 ### Recent Posts
 
 - [Home Assistant Progress November 2025](https://blog.spudlab.xyz/home-assistant-rebuild-progress/) (1 day ago)
