@@ -16,13 +16,13 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Stars
 
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [jdoiro3/mkdocs-multirepo-plugin](https://github.com/jdoiro3/mkdocs-multirepo-plugin) - Build documentation in multiple repos into one site.
-- [JaredC01/LabStack](https://github.com/JaredC01/LabStack) - Modular rackmount solutions for Raspberry Pi&#39;s and other SBC&#39;s and accessories.
 
 ### Recent Posts
 
-- [Why I Buy Einhell Tools](https://blog.spudlab.xyz/why-i-buy-einhell-tools/) (3 days ago)
+- [Why I Buy Einhell Tools](https://blog.spudlab.xyz/why-i-buy-einhell-tools/) (4 days ago)
 - [Home Assistant Progress November 2025](https://blog.spudlab.xyz/home-assistant-rebuild-progress/) (1 week ago)
 - [Release Notes and Versioning That Help Everyone](https://blog.spudlab.xyz/better-release-notes-and-versioning/) (2 weeks ago)
 
