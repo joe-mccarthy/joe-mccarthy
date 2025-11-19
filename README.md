@@ -22,9 +22,9 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Posts
 
+- [Learning FreeCAD](https://blog.spudlab.xyz/learning-freecad-from-onshape-and-fusion360/) (today)
 - [Why I Buy Einhell Tools](https://blog.spudlab.xyz/why-i-buy-einhell-tools/) (1 week ago)
 - [Home Assistant Progress November 2025](https://blog.spudlab.xyz/home-assistant-rebuild-progress/) (2 weeks ago)
-- [Release Notes and Versioning That Help Everyone](https://blog.spudlab.xyz/better-release-notes-and-versioning/) (2 weeks ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
