@@ -16,15 +16,15 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Stars
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [jdoiro3/mkdocs-multirepo-plugin](https://github.com/jdoiro3/mkdocs-multirepo-plugin) - Build documentation in multiple repos into one site.
 
 ### Recent Posts
 
-- [Learning FreeCAD](https://blog.spudlab.xyz/learning-freecad-from-onshape-and-fusion360/) (2 days ago)
-- [Why I Buy Einhell Tools](https://blog.spudlab.xyz/why-i-buy-einhell-tools/) (1 week ago)
-- [Home Assistant Progress November 2025](https://blog.spudlab.xyz/home-assistant-rebuild-progress/) (2 weeks ago)
+- [Learning FreeCAD](https://joe-mccarthy.github.io/learning-freecad-from-onshape-and-fusion360/) (2 days ago)
+- [Why I Buy Einhell Tools](https://joe-mccarthy.github.io/why-i-buy-einhell-tools/) (1 week ago)
+- [Home Assistant Progress November 2025](https://joe-mccarthy.github.io/home-assistant-rebuild-progress/) (2 weeks ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
