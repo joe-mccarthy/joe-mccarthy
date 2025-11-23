@@ -4,9 +4,9 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Latest Projects
 
+- [joe-mccarthy/youtube-content-backup](https://github.com/joe-mccarthy/youtube-content-backup) - 
 - [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
 - [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
-- [joe-mccarthy/night-sky-pi](https://github.com/joe-mccarthy/night-sky-pi) - Capture images from sunset till sunrise for processing off device.
 
 ### Latest Releases
 
@@ -22,9 +22,9 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Posts
 
-- [Learning FreeCAD](https://joe-mccarthy.github.io/learning-freecad-from-onshape-and-fusion360/) (3 days ago)
-- [Why I Buy Einhell Tools](https://joe-mccarthy.github.io/why-i-buy-einhell-tools/) (1 week ago)
-- [Home Assistant Progress November 2025](https://joe-mccarthy.github.io/home-assistant-rebuild-progress/) (2 weeks ago)
+- [Learning FreeCAD](https://joe-mccarthy.github.io/learning-freecad-from-onshape-and-fusion360/) (4 days ago)
+- [Why I Buy Einhell Tools](https://joe-mccarthy.github.io/why-i-buy-einhell-tools/) (2 weeks ago)
+- [Home Assistant Progress November 2025](https://joe-mccarthy.github.io/home-assistant-rebuild-progress/) (3 weeks ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
