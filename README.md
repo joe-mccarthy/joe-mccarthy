@@ -22,7 +22,7 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Posts
 
-- [Learning FreeCAD](https://joe-mccarthy.github.io/learning-freecad-from-onshape-and-fusion360/) (6 days ago)
+- [Learning FreeCAD](https://joe-mccarthy.github.io/learning-freecad-from-onshape-and-fusion360/) (1 week ago)
 - [Why I Buy Einhell Tools](https://joe-mccarthy.github.io/why-i-buy-einhell-tools/) (2 weeks ago)
 - [Home Assistant Progress November 2025](https://joe-mccarthy.github.io/home-assistant-rebuild-progress/) (3 weeks ago)
 
