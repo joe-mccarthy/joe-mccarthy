@@ -4,7 +4,7 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Latest Projects
 
-- [joe-mccarthy/youtube-content-backup](https://github.com/joe-mccarthy/youtube-content-backup) - Simple bash script that takes a list of either YouTube channels or playlists downloads the content then converts them to mp3.
+- [joe-mccarthy/youtube-content-backup](https://github.com/joe-mccarthy/youtube-content-backup) - Backup Entire YouTube Channel or Playlists by converting them to MP3 for archive.
 - [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
 - [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 
