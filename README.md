@@ -4,7 +4,7 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Latest Projects
 
-- [joe-mccarthy/youtube-content-backup](https://github.com/joe-mccarthy/youtube-content-backup) - Backup Entire YouTube Channel or Playlists by converting them to MP3 for archive.
+- [joe-mccarthy/youtube-content-backup](https://github.com/joe-mccarthy/youtube-content-backup) - Backup YouTube Channel or Playlists converting them to MP3 for archive.
 - [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
 - [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 
@@ -16,9 +16,9 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Stars
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 ### Recent Posts
 
