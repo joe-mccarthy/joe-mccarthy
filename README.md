@@ -4,9 +4,9 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Latest Projects
 
+- [joe-mccarthy/dotfiles](https://github.com/joe-mccarthy/dotfiles) - My dot files and configuration for various applications.
 - [joe-mccarthy/youtube-content-backup](https://github.com/joe-mccarthy/youtube-content-backup) - Backup YouTube Channel or Playlists converting them to MP3 for archive.
 - [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
-- [joe-mccarthy/nsp-ntfy](https://github.com/joe-mccarthy/nsp-ntfy) - Monitor configurable MQTT topics and forward the messages to ntfy.sh topics.
 
 ### Latest Releases
 
