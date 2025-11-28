@@ -4,9 +4,9 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Latest Projects
 
+- [joe-mccarthy/.github](https://github.com/joe-mccarthy/.github) - 
 - [joe-mccarthy/dwm](https://github.com/joe-mccarthy/dwm) - My Fork of the suckless dwm with patches and themes applied
 - [joe-mccarthy/dotfiles](https://github.com/joe-mccarthy/dotfiles) - My dot files and configuration for various applications.
-- [joe-mccarthy/st](https://github.com/joe-mccarthy/st) - My Fork of the suckless.org simple terminal with batches and theme applied.
 
 ### Latest Releases
 
