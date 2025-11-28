@@ -4,7 +4,7 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Latest Projects
 
-- [joe-mccarthy/.github](https://github.com/joe-mccarthy/.github) - 
+- [joe-mccarthy/.github](https://github.com/joe-mccarthy/.github) - My user root GitHub repository for defaults.
 - [joe-mccarthy/dwm](https://github.com/joe-mccarthy/dwm) - My Fork of the suckless dwm with patches and themes applied
 - [joe-mccarthy/dotfiles](https://github.com/joe-mccarthy/dotfiles) - My dot files and configuration for various applications.
 
