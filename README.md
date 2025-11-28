@@ -5,7 +5,7 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 ### Latest Projects
 
 - [joe-mccarthy/.github](https://github.com/joe-mccarthy/.github) - My user root GitHub repository for defaults.
-- [joe-mccarthy/dwm](https://github.com/joe-mccarthy/dwm) - My Fork of the suckless dwm with patches and themes applied
+- [joe-mccarthy/dwm](https://github.com/joe-mccarthy/dwm) - My Fork of the suckless dwm with patches and themes applied.
 - [joe-mccarthy/dotfiles](https://github.com/joe-mccarthy/dotfiles) - My dot files and configuration for various applications.
 
 ### Latest Releases
@@ -16,9 +16,9 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Stars
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 
 ### Recent Posts
 
