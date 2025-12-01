@@ -22,9 +22,9 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Posts
 
+- [CBujo Archived](https://joe-mccarthy.github.io/cbujo-archived-refocus/) (today)
 - [Learning FreeCAD](https://joe-mccarthy.github.io/learning-freecad-from-onshape-and-fusion360/) (1 week ago)
 - [Why I Buy Einhell Tools](https://joe-mccarthy.github.io/why-i-buy-einhell-tools/) (3 weeks ago)
-- [Home Assistant Progress November 2025](https://joe-mccarthy.github.io/home-assistant-rebuild-progress/) (4 weeks ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
