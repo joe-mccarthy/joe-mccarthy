@@ -22,7 +22,7 @@ I believe in learning by doing, and I’m comfortable with the occasional broken
 
 ### Recent Posts
 
-- [CBujo Archived](https://joe-mccarthy.github.io/cbujo-archived-refocus/) (today)
+- [CBujo Archived](https://joe-mccarthy.github.io/cbujo-archived-refocus/) (1 day ago)
 - [Learning FreeCAD](https://joe-mccarthy.github.io/learning-freecad-from-onshape-and-fusion360/) (1 week ago)
 - [Why I Buy Einhell Tools](https://joe-mccarthy.github.io/why-i-buy-einhell-tools/) (3 weeks ago)
 
