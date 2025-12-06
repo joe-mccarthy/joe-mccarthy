@@ -1,6 +1,4 @@
-Hi, I’m a software engineer with over ten years of experience in Java and Python. I enjoy tackling challenging problems by writing clean, maintainable code and building systems that have real impact. During the day, I design microservices and data pipelines. Outside of work, I’m usually stargazing or exploring new tech and science topics — I love diving deep into whatever catches my interest.
-
-I believe in learning by doing, and I’m comfortable with the occasional broken build if it means gaining a better understanding. I also enjoy sharing what I learn and collaborating with others who are curious about tech and the universe.
+Hey, I’m Joe — a software engineer who loves building things, breaking them, fixing them, and confidently pretending that was the plan all along. I spend my days wrangling Java, Python, and microservices, and my nights either staring at the stars or diving headfirst into whatever tech or science obsession pops up that week. I’m all about learning by tinkering, experimenting, and occasionally creating the kind of “creative chaos” that teaches you more than any tutorial ever could. If it involves curiosity, code, or the cosmos, I’m probably already knee-deep in it.
 
 ### Current Focus
 
