@@ -2,6 +2,11 @@ Hi, I’m a software engineer with over ten years of experience in Java and Pyth
 
 I believe in learning by doing, and I’m comfortable with the occasional broken build if it means gaining a better understanding. I also enjoy sharing what I learn and collaborating with others who are curious about tech and the universe.
 
+### Current Focus
+{{ range recentContributions 3 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
+
 ### Latest Projects
 {{ range recentRepos 3}}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
