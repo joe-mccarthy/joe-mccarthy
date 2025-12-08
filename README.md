@@ -26,7 +26,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [CBujo Archived](https://joe-mccarthy.github.io/cbujo-archived-refocus/) (6 days ago)
+- [CBujo Archived](https://joe-mccarthy.github.io/cbujo-archived-refocus/) (1 week ago)
 - [Learning FreeCAD](https://joe-mccarthy.github.io/learning-freecad-from-onshape-and-fusion360/) (2 weeks ago)
 - [Why I Buy Einhell Tools](https://joe-mccarthy.github.io/why-i-buy-einhell-tools/) (4 weeks ago)
 
