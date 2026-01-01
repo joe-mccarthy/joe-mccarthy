@@ -26,9 +26,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [2025 Summary](https://joe-mccarthy.github.io/2025-year-in-summary/) (today)
+- [Five Years to Feel at Home in Astrophysics](https://joe-mccarthy.github.io/five-year-astrophysics-plan/) (today)
+- [2025 Summary](https://joe-mccarthy.github.io/2025-year-in-summary/) (1 day ago)
 - [Metmesh Archived](https://joe-mccarthy.github.io/metmesh-archived-whats-next/) (2 weeks ago)
-- [CBujo Archived](https://joe-mccarthy.github.io/cbujo-archived-refocus/) (1 month ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
