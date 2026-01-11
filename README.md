@@ -26,7 +26,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [My 12-Week College Algebra Study Plan](https://joe-mccarthy.github.io/math-refresher-12-week-college-algebra/) (today)
+- [My 12-Week College Algebra Study Plan](https://joe-mccarthy.github.io/math-refresher-12-week-college-algebra/) (1 day ago)
 - [Five Years to Feel at Home in Astrophysics](https://joe-mccarthy.github.io/five-year-astrophysics-plan/) (1 week ago)
 - [2025 Summary](https://joe-mccarthy.github.io/2025-year-in-summary/) (1 week ago)
 
