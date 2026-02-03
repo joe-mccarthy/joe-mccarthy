@@ -26,7 +26,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [My £13 Visual Timer](https://joe-mccarthy.github.io/study-with-visual-timer/) (1 day ago)
+- [My £13 Visual Timer](https://joe-mccarthy.github.io/study-with-visual-timer/) (4 days ago)
 - [My 12-Week College Algebra Study Plan](https://joe-mccarthy.github.io/math-refresher-12-week-college-algebra/) (3 weeks ago)
 - [Five Years to Feel at Home in Astrophysics](https://joe-mccarthy.github.io/five-year-astrophysics-plan/) (1 month ago)
 
