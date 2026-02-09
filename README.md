@@ -26,9 +26,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Retiring the Harlow Bindicator](https://joe-mccarthy.github.io/retiring-harlow-bindicator-home-assistant/) (2 days ago)
+- [Retiring the Harlow Bindicator](https://joe-mccarthy.github.io/retiring-harlow-bindicator-home-assistant/) (3 days ago)
 - [My £13 Visual Timer](https://joe-mccarthy.github.io/study-with-visual-timer/) (1 week ago)
-- [My 12-Week College Algebra Study Plan](https://joe-mccarthy.github.io/math-refresher-12-week-college-algebra/) (4 weeks ago)
+- [My 12-Week College Algebra Study Plan](https://joe-mccarthy.github.io/math-refresher-12-week-college-algebra/) (1 month ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
