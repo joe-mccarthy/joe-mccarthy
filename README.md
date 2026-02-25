@@ -2,9 +2,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Current Focus
 
+- [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) - Hugo theme based on a stripped down version of Smigle.
+- [joe-mccarthy/bootstrap-freelancer](https://github.com/joe-mccarthy/bootstrap-freelancer) - Hugo theme based on the Start Bootstrap Freelancer Theme.
 - [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) - A local-first CLI tool for tracking the true cost of vehicle ownership — fuel, maintenance, insurance, and total cost per mile
-- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
-- [joe-mccarthy/dotfiles](https://github.com/joe-mccarthy/dotfiles) - My dot files and configuration for various applications.
 
 ### Latest Projects
 
