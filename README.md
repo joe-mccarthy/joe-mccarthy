@@ -2,8 +2,8 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Current Focus
 
-- [joe-mccarthy/.github](https://github.com/joe-mccarthy/.github) - My user root GitHub repository for defaults.
-- [joe-mccarthy/bootstrap-freelancer](https://github.com/joe-mccarthy/bootstrap-freelancer) - Hugo theme based on the Start Bootstrap Freelancer Theme.
+- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
+- [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) - Hugo theme based on a stripped down version of Smigle.
 - [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) - A local-first CLI tool for tracking the true cost of vehicle ownership — fuel, maintenance, insurance, and total cost per mile
 
 ### Latest Projects
@@ -28,7 +28,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 - [First Layer on My Prusa Mini](https://joe-mccarthy.github.io/prusa-mini-first-layer-dial-in/) (2 weeks ago)
 - [Retiring the Harlow Bindicator](https://joe-mccarthy.github.io/retiring-harlow-bindicator-home-assistant/) (3 weeks ago)
-- [My £13 Visual Timer](https://joe-mccarthy.github.io/study-with-visual-timer/) (4 weeks ago)
+- [My £13 Visual Timer](https://joe-mccarthy.github.io/study-with-visual-timer/) (1 month ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
