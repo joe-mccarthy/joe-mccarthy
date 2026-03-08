@@ -26,9 +26,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [2026 Progress Update 1](https://joe-mccarthy.github.io/posts/26/03/2026-progress-update-1/) (3 days ago)
+- [2026 Progress Update 1](https://joe-mccarthy.github.io/posts/26/03/2026-progress-update-1/) (4 days ago)
 - [First Layer on My Prusa Mini](https://joe-mccarthy.github.io/prusa-mini-first-layer-dial-in/) (3 weeks ago)
-- [Retiring the Harlow Bindicator](https://joe-mccarthy.github.io/retiring-harlow-bindicator-home-assistant/) (4 weeks ago)
+- [Retiring the Harlow Bindicator](https://joe-mccarthy.github.io/retiring-harlow-bindicator-home-assistant/) (1 month ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
