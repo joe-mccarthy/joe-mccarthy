@@ -20,13 +20,13 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Stars
 
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 
 ### Recent Posts
 
-- [2026 Progress Update 1](https://joe-mccarthy.github.io/posts/26/03/2026-progress-update-1/) (6 days ago)
+- [2026 Progress Update 1](https://joe-mccarthy.github.io/posts/26/03/2026-progress-update-1/) (1 week ago)
 - [First Layer on My Prusa Mini](https://joe-mccarthy.github.io/prusa-mini-first-layer-dial-in/) (3 weeks ago)
 - [Retiring the Harlow Bindicator](https://joe-mccarthy.github.io/retiring-harlow-bindicator-home-assistant/) (1 month ago)
 
