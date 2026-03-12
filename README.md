@@ -27,7 +27,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 ### Recent Posts
 
 - [2026 Progress Update 1](https://joe-mccarthy.github.io/posts/26/03/2026-progress-update-1/) (1 week ago)
-- [First Layer on My Prusa Mini](https://joe-mccarthy.github.io/prusa-mini-first-layer-dial-in/) (3 weeks ago)
+- [First Layer on My Prusa Mini](https://joe-mccarthy.github.io/prusa-mini-first-layer-dial-in/) (4 weeks ago)
 - [Retiring the Harlow Bindicator](https://joe-mccarthy.github.io/retiring-harlow-bindicator-home-assistant/) (1 month ago)
 
 ### Recently Reads
