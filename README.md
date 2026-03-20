@@ -2,9 +2,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Current Focus
 
-- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
+- [joe-mccarthy/homelab](https://github.com/joe-mccarthy/homelab) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
+- [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) - Hugo theme based on a stripped down version of Smigle.
 - [joe-mccarthy/.github](https://github.com/joe-mccarthy/.github) - My user root GitHub repository for defaults.
-- [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) - A local-first CLI tool for tracking the true cost of vehicle ownership — fuel, maintenance, insurance, and total cost per mile
 
 ### Latest Projects
 
@@ -14,15 +14,15 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Latest Releases
 
-- [joe-mccarthy/home-lab](https://github.com/joe-mccarthy/home-lab) [`2.2.0`](https://github.com/joe-mccarthy/home-lab/releases/tag/2.2.0) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
-- [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) [`1.3.0`](https://github.com/joe-mccarthy/smigle-lite/releases/tag/1.3.0) - Hugo theme based on a stripped down version of Smigle.
+- [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) [`v1.3.1`](https://github.com/joe-mccarthy/smigle-lite/releases/tag/v1.3.1) - Hugo theme based on a stripped down version of Smigle.
+- [joe-mccarthy/homelab](https://github.com/joe-mccarthy/homelab) [`2.2.0`](https://github.com/joe-mccarthy/homelab/releases/tag/2.2.0) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
 - [joe-mccarthy/bootstrap-freelancer](https://github.com/joe-mccarthy/bootstrap-freelancer) [`2.0.0`](https://github.com/joe-mccarthy/bootstrap-freelancer/releases/tag/2.0.0) - Hugo theme based on the Start Bootstrap Freelancer Theme.
 
 ### Recent Stars
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 
 ### Recent Posts
 
