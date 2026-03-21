@@ -8,7 +8,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Latest Projects
 
-- [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) - A local-first CLI tool for tracking the true cost of vehicle ownership — fuel, maintenance, insurance, and total cost per mile
+- [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) - A local-first CLI tool for tracking the true cost of vehicle ownership
 - [joe-mccarthy/.github](https://github.com/joe-mccarthy/.github) - My user root GitHub repository for defaults.
 - [joe-mccarthy/dwm](https://github.com/joe-mccarthy/dwm) - My Fork of the suckless dwm with patches and themes applied.
 
