@@ -14,8 +14,8 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Latest Releases
 
+- [joe-mccarthy/homelab](https://github.com/joe-mccarthy/homelab) [`v3.0.0`](https://github.com/joe-mccarthy/homelab/releases/tag/v3.0.0) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
 - [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) [`v1.3.1`](https://github.com/joe-mccarthy/smigle-lite/releases/tag/v1.3.1) - Hugo theme based on a stripped down version of Smigle.
-- [joe-mccarthy/homelab](https://github.com/joe-mccarthy/homelab) [`2.2.0`](https://github.com/joe-mccarthy/homelab/releases/tag/2.2.0) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
 - [joe-mccarthy/bootstrap-freelancer](https://github.com/joe-mccarthy/bootstrap-freelancer) [`2.0.0`](https://github.com/joe-mccarthy/bootstrap-freelancer/releases/tag/2.0.0) - Hugo theme based on the Start Bootstrap Freelancer Theme.
 
 ### Recent Stars
