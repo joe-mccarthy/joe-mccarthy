@@ -20,13 +20,13 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Stars
 
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s. 
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-- [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 
 ### Recent Posts
 
-- [QCon London 2026: The Useful Parts Were the Quiet Ones](https://joe-mccarthy.github.io/posts/26/03/qcon-london-2026-reflection/) (today)
+- [QCon London 2026: The Useful Parts Were the Quiet Ones](https://joe-mccarthy.github.io/posts/26/03/qcon-london-2026-reflection/) (1 day ago)
 - [2026 Progress Update 1](https://joe-mccarthy.github.io/posts/26/03/2026-progress-update-1/) (2 weeks ago)
 - [First Layer on My Prusa Mini](https://joe-mccarthy.github.io/prusa-mini-first-layer-dial-in/) (1 month ago)
 
