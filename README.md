@@ -27,7 +27,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 ### Recent Posts
 
 - [QCon London 2026: The Useful Parts Were the Quiet Ones](https://joe-mccarthy.github.io/posts/26/03/qcon-london-2026-reflection/) (1 week ago)
-- [2026 Progress Update 1](https://joe-mccarthy.github.io/posts/26/03/2026-progress-update-1/) (3 weeks ago)
+- [2026 Progress Update 1](https://joe-mccarthy.github.io/posts/26/03/2026-progress-update-1/) (4 weeks ago)
 - [First Layer on My Prusa Mini](https://joe-mccarthy.github.io/prusa-mini-first-layer-dial-in/) (1 month ago)
 
 ### Recently Reads
