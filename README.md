@@ -26,7 +26,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Homelab Journey Part 1: Why I Started Self-Hosting](https://joe-mccarthy.github.io/posts/26/04/homelab-journey-part-1-why-self-hosting/) (4 days ago)
+- [Homelab Journey Part 1: Why I Started Self-Hosting](https://joe-mccarthy.github.io/posts/26/04/homelab-journey-part-1-why-self-hosting/) (5 days ago)
 - [QCon London 2026: The Useful Parts Were the Quiet Ones](https://joe-mccarthy.github.io/posts/26/03/qcon-london-2026-reflection/) (2 weeks ago)
 - [2026 Progress Update 1](https://joe-mccarthy.github.io/posts/26/03/2026-progress-update-1/) (1 month ago)
 
