@@ -14,8 +14,8 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Latest Releases
 
-- [joe-mccarthy/homelab](https://github.com/joe-mccarthy/homelab) [`v3.0.0`](https://github.com/joe-mccarthy/homelab/releases/tag/v3.0.0) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
-- [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) [`v1.3.1`](https://github.com/joe-mccarthy/smigle-lite/releases/tag/v1.3.1) - Hugo theme based on a stripped down version of Smigle.
+- [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) [`v1.4.0`](https://github.com/joe-mccarthy/smigle-lite/releases/tag/v1.4.0) - Hugo theme based on a stripped down version of Smigle.
+- [joe-mccarthy/homelab](https://github.com/joe-mccarthy/homelab) [`v3.1.0`](https://github.com/joe-mccarthy/homelab/releases/tag/v3.1.0) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
 - [joe-mccarthy/bootstrap-freelancer](https://github.com/joe-mccarthy/bootstrap-freelancer) [`2.0.0`](https://github.com/joe-mccarthy/bootstrap-freelancer/releases/tag/2.0.0) - Hugo theme based on the Start Bootstrap Freelancer Theme.
 
 ### Recent Stars
@@ -26,9 +26,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
+- [Kubernetes Is Often the Wrong Starting Point](https://joe-mccarthy.github.io/posts/26/04/most-developers-dont-need-kubernetes/) (1 day ago)
 - [Homelab Journey Part 1: Why I Started Self-Hosting](https://joe-mccarthy.github.io/posts/26/04/homelab-journey-part-1-why-self-hosting/) (1 week ago)
 - [QCon London 2026: The Useful Parts Were the Quiet Ones](https://joe-mccarthy.github.io/posts/26/03/qcon-london-2026-reflection/) (3 weeks ago)
-- [2026 Progress Update 1](https://joe-mccarthy.github.io/posts/26/03/2026-progress-update-1/) (1 month ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
