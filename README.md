@@ -26,7 +26,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Kubernetes Is Often the Wrong Starting Point](https://joe-mccarthy.github.io/posts/26/04/most-developers-dont-need-kubernetes/) (3 days ago)
+- [Kubernetes Is Often the Wrong Starting Point](https://joe-mccarthy.github.io/posts/26/04/most-developers-dont-need-kubernetes/) (4 days ago)
 - [Homelab Journey Part 1: Why I Started Self-Hosting](https://joe-mccarthy.github.io/posts/26/04/homelab-journey-part-1-why-self-hosting/) (1 week ago)
 - [QCon London 2026: The Useful Parts Were the Quiet Ones](https://joe-mccarthy.github.io/posts/26/03/qcon-london-2026-reflection/) (3 weeks ago)
 
