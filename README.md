@@ -26,8 +26,8 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Side Projects Should Start Boring](https://joe-mccarthy.github.io/posts/26/04/over-engineering-side-projects/) (2 weeks ago)
-- [Raspberry Pi Docker Swarm: Useful, Limited, Good Enough](https://joe-mccarthy.github.io/posts/26/04/homelab-journey-part-2-hardware-setup/) (3 weeks ago)
+- [Side Projects Should Start Boring](https://joe-mccarthy.github.io/posts/26/04/over-engineering-side-projects/) (3 weeks ago)
+- [Raspberry Pi Docker Swarm: Useful, Limited, Good Enough](https://joe-mccarthy.github.io/posts/26/04/homelab-journey-part-2-hardware-setup/) (4 weeks ago)
 - [Kubernetes Is Often the Wrong Starting Point](https://joe-mccarthy.github.io/posts/26/04/most-developers-dont-need-kubernetes/) (1 month ago)
 
 ### Recently Reads
