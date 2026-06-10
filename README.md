@@ -2,9 +2,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Current Focus
 
+- [joe-mccarthy/youtube-content-backup](https://github.com/joe-mccarthy/youtube-content-backup) - Backup YouTube Channel or Playlists converting them to MP3 for archive.
 - [joe-mccarthy/homelab](https://github.com/joe-mccarthy/homelab) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
 - [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) - Hugo theme based on a stripped down version of Smigle.
-- [joe-mccarthy/.github](https://github.com/joe-mccarthy/.github) - My user root GitHub repository for defaults.
 
 ### Latest Projects
 
@@ -14,9 +14,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Latest Releases
 
+- [joe-mccarthy/youtube-content-backup](https://github.com/joe-mccarthy/youtube-content-backup) [`v1.0.2`](https://github.com/joe-mccarthy/youtube-content-backup/releases/tag/v1.0.2) - Backup YouTube Channel or Playlists converting them to MP3 for archive.
 - [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) [`v1.4.0`](https://github.com/joe-mccarthy/smigle-lite/releases/tag/v1.4.0) - Hugo theme based on a stripped down version of Smigle.
 - [joe-mccarthy/homelab](https://github.com/joe-mccarthy/homelab) [`v3.1.0`](https://github.com/joe-mccarthy/homelab/releases/tag/v3.1.0) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
-- [joe-mccarthy/bootstrap-freelancer](https://github.com/joe-mccarthy/bootstrap-freelancer) [`2.0.0`](https://github.com/joe-mccarthy/bootstrap-freelancer/releases/tag/2.0.0) - Hugo theme based on the Start Bootstrap Freelancer Theme.
 
 ### Recent Stars
 
