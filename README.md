@@ -26,9 +26,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Side Projects Should Start Boring](https://joe-mccarthy.github.io/posts/26/04/over-engineering-side-projects/) (2 months ago)
-- [Raspberry Pi Docker Swarm: Useful, Limited, Good Enough](https://joe-mccarthy.github.io/posts/26/04/homelab-journey-part-2-hardware-setup/) (2 months ago)
-- [Kubernetes Is Often the Wrong Starting Point](https://joe-mccarthy.github.io/posts/26/04/most-developers-dont-need-kubernetes/) (2 months ago)
+- [Homelab Journey Part 7: Backups with Restic That I Actually Trust](https://joe-mccarthy.github.io/posts/26/06/homelab-journey-part-7-restic-backups/) (today)
+- [Stop Building for Scale You Don’t Have](https://joe-mccarthy.github.io/posts/26/06/stop-building-for-scale-you-dont-have/) (1 week ago)
+- [Homelab Journey Part 6: Document Management with Paperless-ngx](https://joe-mccarthy.github.io/posts/26/06/homelab-journey-part-6-paperless-ngx/) (2 weeks ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
