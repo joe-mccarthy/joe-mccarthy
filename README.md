@@ -2,9 +2,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Current Focus
 
-- [joe-mccarthy/youtube-content-backup](https://github.com/joe-mccarthy/youtube-content-backup) - Backup YouTube Channel or Playlists converting them to MP3 for archive.
-- [joe-mccarthy/homelab](https://github.com/joe-mccarthy/homelab) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
+- [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) - A local-first CLI tool for tracking the true cost of vehicle ownership
 - [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) - Hugo theme based on a stripped down version of Smigle.
+- [joe-mccarthy/youtube-content-backup](https://github.com/joe-mccarthy/youtube-content-backup) - Backup YouTube Channel or Playlists converting them to MP3 for archive.
 
 ### Latest Projects
 
@@ -14,8 +14,8 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Latest Releases
 
+- [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) [`v1.5.0`](https://github.com/joe-mccarthy/smigle-lite/releases/tag/v1.5.0) - Hugo theme based on a stripped down version of Smigle.
 - [joe-mccarthy/youtube-content-backup](https://github.com/joe-mccarthy/youtube-content-backup) [`v1.0.2`](https://github.com/joe-mccarthy/youtube-content-backup/releases/tag/v1.0.2) - Backup YouTube Channel or Playlists converting them to MP3 for archive.
-- [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) [`v1.4.0`](https://github.com/joe-mccarthy/smigle-lite/releases/tag/v1.4.0) - Hugo theme based on a stripped down version of Smigle.
 - [joe-mccarthy/homelab](https://github.com/joe-mccarthy/homelab) [`v3.1.0`](https://github.com/joe-mccarthy/homelab/releases/tag/v3.1.0) - Build and manage a docker swarm cluster using ansible on Raspberry Pis
 
 ### Recent Stars
@@ -26,7 +26,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Homelab Journey Part 7: Backups with Restic That I Actually Trust](https://joe-mccarthy.github.io/posts/26/06/homelab-journey-part-7-restic-backups/) (today)
+- [Homelab Journey Part 7: Backups with Restic That I Actually Trust](https://joe-mccarthy.github.io/posts/26/06/homelab-journey-part-7-restic-backups/) (1 day ago)
 - [Stop Building for Scale You Don’t Have](https://joe-mccarthy.github.io/posts/26/06/stop-building-for-scale-you-dont-have/) (1 week ago)
 - [Homelab Journey Part 6: Document Management with Paperless-ngx](https://joe-mccarthy.github.io/posts/26/06/homelab-journey-part-6-paperless-ngx/) (2 weeks ago)
 
