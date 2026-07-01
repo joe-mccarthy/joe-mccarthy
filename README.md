@@ -26,8 +26,8 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Introducing Odometer](https://joe-mccarthy.github.io/posts/26/06/introducing-odometer/) (1 day ago)
-- [Homelab Journey Part 7: Backups with Restic That I Actually Trust](https://joe-mccarthy.github.io/posts/26/06/homelab-journey-part-7-restic-backups/) (2 days ago)
+- [Introducing Odometer](https://joe-mccarthy.github.io/posts/26/06/introducing-odometer/) (2 days ago)
+- [Homelab Journey Part 7: Backups with Restic That I Actually Trust](https://joe-mccarthy.github.io/posts/26/06/homelab-journey-part-7-restic-backups/) (3 days ago)
 - [Stop Building for Scale You Don’t Have](https://joe-mccarthy.github.io/posts/26/06/stop-building-for-scale-you-dont-have/) (1 week ago)
 
 ### Recently Reads
