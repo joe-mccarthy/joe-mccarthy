@@ -2,15 +2,15 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Current Focus
 
-- [joe-mccarthy/open-skycam](https://github.com/joe-mccarthy/open-skycam) - A Python Raspberry Pi all-sky camera for scientific night-sky monitoring, with off-device CLI/TUI processing for calibration, cloud cover, sky brightness, star detection, and meteor candidates.
 - [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) - A local-first CLI tool for tracking the true cost of vehicle ownership
 - [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) - Hugo theme based on a stripped down version of Smigle.
+- [joe-mccarthy/youtube-content-backup](https://github.com/joe-mccarthy/youtube-content-backup) - Backup YouTube Channel or Playlists converting them to MP3 for archive.
 
 ### Latest Projects
 
-- [joe-mccarthy/open-skycam](https://github.com/joe-mccarthy/open-skycam) - A Python Raspberry Pi all-sky camera for scientific night-sky monitoring, with off-device CLI/TUI processing for calibration, cloud cover, sky brightness, star detection, and meteor candidates.
 - [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) - A local-first CLI tool for tracking the true cost of vehicle ownership
 - [joe-mccarthy/.github](https://github.com/joe-mccarthy/.github) - My user root GitHub repository for defaults.
+- [joe-mccarthy/dwm](https://github.com/joe-mccarthy/dwm) - My Fork of the suckless dwm with patches and themes applied.
 
 ### Latest Releases
 
