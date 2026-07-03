@@ -2,15 +2,15 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Current Focus
 
+- [joe-mccarthy/open-skycam](https://github.com/joe-mccarthy/open-skycam) - A Python Raspberry Pi all-sky camera for scientific night-sky monitoring, with off-device CLI/TUI processing for calibration, cloud cover, sky brightness, star detection, and meteor candidates.
 - [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) - A local-first CLI tool for tracking the true cost of vehicle ownership
 - [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) - Hugo theme based on a stripped down version of Smigle.
-- [joe-mccarthy/youtube-content-backup](https://github.com/joe-mccarthy/youtube-content-backup) - Backup YouTube Channel or Playlists converting them to MP3 for archive.
 
 ### Latest Projects
 
+- [joe-mccarthy/open-skycam](https://github.com/joe-mccarthy/open-skycam) - A Python Raspberry Pi all-sky camera for scientific night-sky monitoring, with off-device CLI/TUI processing for calibration, cloud cover, sky brightness, star detection, and meteor candidates.
 - [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) - A local-first CLI tool for tracking the true cost of vehicle ownership
 - [joe-mccarthy/.github](https://github.com/joe-mccarthy/.github) - My user root GitHub repository for defaults.
-- [joe-mccarthy/dwm](https://github.com/joe-mccarthy/dwm) - My Fork of the suckless dwm with patches and themes applied.
 
 ### Latest Releases
 
@@ -26,8 +26,8 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Introducing Odometer](https://joe-mccarthy.github.io/posts/26/06/introducing-odometer/) (3 days ago)
-- [Homelab Journey Part 7: Backups with Restic That I Actually Trust](https://joe-mccarthy.github.io/posts/26/06/homelab-journey-part-7-restic-backups/) (4 days ago)
+- [Introducing Odometer](https://joe-mccarthy.github.io/posts/26/06/introducing-odometer/) (4 days ago)
+- [Homelab Journey Part 7: Backups with Restic That I Actually Trust](https://joe-mccarthy.github.io/posts/26/06/homelab-journey-part-7-restic-backups/) (5 days ago)
 - [Stop Building for Scale You Don’t Have](https://joe-mccarthy.github.io/posts/26/06/stop-building-for-scale-you-dont-have/) (1 week ago)
 
 ### Recently Reads
