@@ -26,9 +26,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Introducing Odometer](https://joe-mccarthy.github.io/posts/26/06/introducing-odometer/) (5 days ago)
-- [Homelab Journey Part 7: Backups with Restic That I Actually Trust](https://joe-mccarthy.github.io/posts/26/06/homelab-journey-part-7-restic-backups/) (6 days ago)
-- [Stop Building for Scale You Don’t Have](https://joe-mccarthy.github.io/posts/26/06/stop-building-for-scale-you-dont-have/) (1 week ago)
+- [What “Production-Ready” Actually Means](https://joe-mccarthy.github.io/posts/26/07/what-production-ready-means/) (today)
+- [Introducing Odometer](https://joe-mccarthy.github.io/posts/26/06/introducing-odometer/) (6 days ago)
+- [Homelab Journey Part 7: Backups with Restic That I Actually Trust](https://joe-mccarthy.github.io/posts/26/06/homelab-journey-part-7-restic-backups/) (1 week ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
