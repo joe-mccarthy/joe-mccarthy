@@ -26,8 +26,8 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [What “Production-Ready” Actually Means](https://joe-mccarthy.github.io/posts/26/07/what-production-ready-means/) (today)
-- [Introducing Odometer](https://joe-mccarthy.github.io/posts/26/06/introducing-odometer/) (6 days ago)
+- [What “Production-Ready” Actually Means](https://joe-mccarthy.github.io/posts/26/07/what-production-ready-means/) (1 day ago)
+- [Introducing Odometer](https://joe-mccarthy.github.io/posts/26/06/introducing-odometer/) (1 week ago)
 - [Homelab Journey Part 7: Backups with Restic That I Actually Trust](https://joe-mccarthy.github.io/posts/26/06/homelab-journey-part-7-restic-backups/) (1 week ago)
 
 ### Recently Reads
