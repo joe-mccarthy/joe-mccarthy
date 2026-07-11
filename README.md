@@ -2,9 +2,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Current Focus
 
+- [joe-mccarthy/dotfiles](https://github.com/joe-mccarthy/dotfiles) - My dot files and configuration for various applications.
 - [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) - A local-first CLI tool for tracking the true cost of vehicle ownership
 - [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) - Hugo theme based on a stripped down version of Smigle.
-- [joe-mccarthy/youtube-content-backup](https://github.com/joe-mccarthy/youtube-content-backup) - Backup YouTube Channel or Playlists converting them to MP3 for archive.
 
 ### Latest Projects
 
@@ -20,13 +20,13 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Stars
 
+- [Fausto-Korpsvart/Catppuccin-GTK-Theme](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme) - GTK Theme with Catppuccin colour scheme
+- [blrnw3/nw3weather](https://github.com/blrnw3/nw3weather) - Weather data management system and public website
 - [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) - Gallery Theme for Hugo
-- [zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate) - Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0 that will save you hours of work.
-- [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) - 
 
 ### Recent Posts
 
-- [What “Production-Ready” Actually Means](https://joe-mccarthy.github.io/posts/26/07/what-production-ready-means/) (5 days ago)
+- [What “Production-Ready” Actually Means](https://joe-mccarthy.github.io/posts/26/07/what-production-ready-means/) (6 days ago)
 - [Introducing Odometer](https://joe-mccarthy.github.io/posts/26/06/introducing-odometer/) (1 week ago)
 - [Homelab Journey Part 7: Backups with Restic That I Actually Trust](https://joe-mccarthy.github.io/posts/26/06/homelab-journey-part-7-restic-backups/) (1 week ago)
 
