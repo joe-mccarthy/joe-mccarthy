@@ -26,9 +26,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Homelab Journey Part 8: Automation with Home Assistant](https://joe-mccarthy.github.io/posts/26/07/homelab-journey-part-8-home-assistant/) (today)
+- [Homelab Journey Part 8: Automation with Home Assistant](https://joe-mccarthy.github.io/posts/26/07/homelab-journey-part-8-home-assistant/) (1 day ago)
 - [What “Production-Ready” Actually Means](https://joe-mccarthy.github.io/posts/26/07/what-production-ready-means/) (1 week ago)
-- [Introducing Odometer](https://joe-mccarthy.github.io/posts/26/06/introducing-odometer/) (1 week ago)
+- [Introducing Odometer](https://joe-mccarthy.github.io/posts/26/06/introducing-odometer/) (2 weeks ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
