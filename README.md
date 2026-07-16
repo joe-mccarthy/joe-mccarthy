@@ -3,20 +3,20 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 ### Current Focus
 
 - [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) - Hugo theme based on a stripped down version of Smigle.
+- [joe-mccarthy/termfolio](https://github.com/joe-mccarthy/termfolio) - Terminal-inspired Hugo theme for blogs, portfolios, and project indexes, with shell-style navigation, local fonts, no tracking, and no runtime external dependencies.
 - [joe-mccarthy/dotfiles](https://github.com/joe-mccarthy/dotfiles) - My dot files and configuration for various applications.
-- [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) - A local-first CLI tool for tracking the true cost of vehicle ownership
 
 ### Latest Projects
 
+- [joe-mccarthy/termfolio](https://github.com/joe-mccarthy/termfolio) - Terminal-inspired Hugo theme for blogs, portfolios, and project indexes, with shell-style navigation, local fonts, no tracking, and no runtime external dependencies.
 - [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) - A local-first CLI tool for tracking the true cost of vehicle ownership
 - [joe-mccarthy/.github](https://github.com/joe-mccarthy/.github) - My user root GitHub repository for defaults.
-- [joe-mccarthy/dwm](https://github.com/joe-mccarthy/dwm) - My Fork of the suckless dwm with patches and themes applied.
 
 ### Latest Releases
 
+- [joe-mccarthy/termfolio](https://github.com/joe-mccarthy/termfolio) [`v1.0.1`](https://github.com/joe-mccarthy/termfolio/releases/tag/v1.0.1) - Terminal-inspired Hugo theme for blogs, portfolios, and project indexes, with shell-style navigation, local fonts, no tracking, and no runtime external dependencies.
 - [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) [`v0.1.0`](https://github.com/joe-mccarthy/odometer/releases/tag/v0.1.0) - A local-first CLI tool for tracking the true cost of vehicle ownership
 - [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) [`v1.5.0`](https://github.com/joe-mccarthy/smigle-lite/releases/tag/v1.5.0) - Hugo theme based on a stripped down version of Smigle.
-- [joe-mccarthy/youtube-content-backup](https://github.com/joe-mccarthy/youtube-content-backup) [`v1.0.2`](https://github.com/joe-mccarthy/youtube-content-backup/releases/tag/v1.0.2) - Backup YouTube Channel or Playlists converting them to MP3 for archive.
 
 ### Recent Stars
 
@@ -26,9 +26,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Homelab Journey Part 8: Automation with Home Assistant](https://joe-mccarthy.github.io/posts/26/07/homelab-journey-part-8-home-assistant/) (4 days ago)
-- [What “Production-Ready” Actually Means](https://joe-mccarthy.github.io/posts/26/07/what-production-ready-means/) (1 week ago)
-- [Introducing Odometer](https://joe-mccarthy.github.io/posts/26/06/introducing-odometer/) (2 weeks ago)
+- [Termfolio](https://joe-mccarthy.github.io/projects/termfolio/) (today)
+- [Odometer](https://joe-mccarthy.github.io/projects/odometer/) (2 weeks ago)
+- [Homelab](https://joe-mccarthy.github.io/projects/homelab/) (1 month ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
