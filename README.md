@@ -2,9 +2,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Current Focus
 
+- [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) - Hugo theme based on a stripped down version of Smigle.
 - [joe-mccarthy/dotfiles](https://github.com/joe-mccarthy/dotfiles) - My dot files and configuration for various applications.
 - [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) - A local-first CLI tool for tracking the true cost of vehicle ownership
-- [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) - Hugo theme based on a stripped down version of Smigle.
 
 ### Latest Projects
 
@@ -26,7 +26,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Homelab Journey Part 8: Automation with Home Assistant](https://joe-mccarthy.github.io/posts/26/07/homelab-journey-part-8-home-assistant/) (3 days ago)
+- [Homelab Journey Part 8: Automation with Home Assistant](https://joe-mccarthy.github.io/posts/26/07/homelab-journey-part-8-home-assistant/) (4 days ago)
 - [What “Production-Ready” Actually Means](https://joe-mccarthy.github.io/posts/26/07/what-production-ready-means/) (1 week ago)
 - [Introducing Odometer](https://joe-mccarthy.github.io/posts/26/06/introducing-odometer/) (2 weeks ago)
 
