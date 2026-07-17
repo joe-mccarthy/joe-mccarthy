@@ -21,7 +21,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 {{- end }}
 
 ### Recent Posts
-{{ range rss "https://joe-mccarthy.github.io/index.xml" 3 }}
+{{ range rss "https://joe-mccarthy.github.io/posts/index.xml" 3 }}
 - [{{ .Title }}]({{ .URL }}) ({{humanize .PublishedAt}})
 {{- end }}
 
