@@ -1,11 +1,5 @@
 Hey, I’m Joe — a software engineer who loves building things, breaking them, fixing them, and confidently pretending that was the plan all along. I spend my days wrangling Java, Python, and microservices, and my nights either staring at the stars or diving headfirst into whatever tech or science obsession pops up that week. I’m all about learning by tinkering, experimenting, and occasionally creating the kind of “creative chaos” that teaches you more than any tutorial ever could. If it involves curiosity, code, or the cosmos, I’m probably already knee-deep in it.
 
-### Current Focus
-
-- [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) - Hugo theme based on a stripped down version of Smigle.
-- [joe-mccarthy/termfolio](https://github.com/joe-mccarthy/termfolio) - Terminal-inspired Hugo theme for blogs, portfolios, and project indexes, with shell-style navigation, local fonts, no tracking, and no runtime external dependencies.
-- [joe-mccarthy/dotfiles](https://github.com/joe-mccarthy/dotfiles) - My dot files and configuration for various applications.
-
 ### Latest Projects
 
 - [joe-mccarthy/termfolio](https://github.com/joe-mccarthy/termfolio) - Terminal-inspired Hugo theme for blogs, portfolios, and project indexes, with shell-style navigation, local fonts, no tracking, and no runtime external dependencies.
@@ -20,9 +14,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Termfolio](https://joe-mccarthy.github.io/projects/termfolio/) (today)
-- [Odometer](https://joe-mccarthy.github.io/projects/odometer/) (2 weeks ago)
-- [Homelab](https://joe-mccarthy.github.io/projects/homelab/) (1 month ago)
+- [Homelab Journey Part 8: Automation with Home Assistant](https://joe-mccarthy.github.io/posts/26/07/homelab-journey-part-8-home-assistant/) (5 days ago)
+- [What “Production-Ready” Actually Means](https://joe-mccarthy.github.io/posts/26/07/what-production-ready-means/) (1 week ago)
+- [Introducing Odometer](https://joe-mccarthy.github.io/posts/26/06/introducing-odometer/) (2 weeks ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
