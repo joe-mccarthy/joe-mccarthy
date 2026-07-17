@@ -5,11 +5,6 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 
-### Latest Releases
-{{ range recentReleases 3 }}
-- [{{ .Name }}]({{ .URL }}) [`{{ .LastRelease.TagName }}`]({{ .LastRelease.URL }}) - {{.Description}}
-{{- end }}
-
 ### Recent Stars
 {{ range recentStars 3 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}

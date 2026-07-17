@@ -12,12 +12,6 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 - [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) - A local-first CLI tool for tracking the true cost of vehicle ownership
 - [joe-mccarthy/.github](https://github.com/joe-mccarthy/.github) - My user root GitHub repository for defaults.
 
-### Latest Releases
-
-- [joe-mccarthy/termfolio](https://github.com/joe-mccarthy/termfolio) [`v1.0.1`](https://github.com/joe-mccarthy/termfolio/releases/tag/v1.0.1) - Terminal-inspired Hugo theme for blogs, portfolios, and project indexes, with shell-style navigation, local fonts, no tracking, and no runtime external dependencies.
-- [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) [`v0.1.0`](https://github.com/joe-mccarthy/odometer/releases/tag/v0.1.0) - A local-first CLI tool for tracking the true cost of vehicle ownership
-- [joe-mccarthy/smigle-lite](https://github.com/joe-mccarthy/smigle-lite) [`v1.5.0`](https://github.com/joe-mccarthy/smigle-lite/releases/tag/v1.5.0) - Hugo theme based on a stripped down version of Smigle.
-
 ### Recent Stars
 
 - [Fausto-Korpsvart/Catppuccin-GTK-Theme](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme) - GTK Theme with Catppuccin colour scheme
