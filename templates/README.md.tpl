@@ -1,10 +1,5 @@
 Hey, I’m Joe — a software engineer who loves building things, breaking them, fixing them, and confidently pretending that was the plan all along. I spend my days wrangling Java, Python, and microservices, and my nights either staring at the stars or diving headfirst into whatever tech or science obsession pops up that week. I’m all about learning by tinkering, experimenting, and occasionally creating the kind of “creative chaos” that teaches you more than any tutorial ever could. If it involves curiosity, code, or the cosmos, I’m probably already knee-deep in it.
 
-### Current Focus
-{{ range recentContributions 3 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
-
 ### Latest Projects
 {{ range recentRepos 3}}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
