@@ -8,13 +8,13 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Stars
 
+- [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) - The source for https://themes.gohugo.io
 - [Fausto-Korpsvart/Catppuccin-GTK-Theme](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme) - GTK Theme with Catppuccin colour scheme
 - [blrnw3/nw3weather](https://github.com/blrnw3/nw3weather) - Weather data management system and public website
-- [nicokaiser/hugo-theme-gallery](https://github.com/nicokaiser/hugo-theme-gallery) - Gallery Theme for Hugo
 
 ### Recent Posts
 
-- [The Tradeoff Mindset: Every Tool Has a Cost](https://joe-mccarthy.github.io/posts/26/07/every-tool-has-a-cost/) (3 days ago)
+- [The Tradeoff Mindset: Every Tool Has a Cost](https://joe-mccarthy.github.io/posts/26/07/every-tool-has-a-cost/) (4 days ago)
 - [Homelab Journey Part 8: Automation with Home Assistant](https://joe-mccarthy.github.io/posts/26/07/homelab-journey-part-8-home-assistant/) (1 week ago)
 - [What “Production-Ready” Actually Means](https://joe-mccarthy.github.io/posts/26/07/what-production-ready-means/) (2 weeks ago)
 
