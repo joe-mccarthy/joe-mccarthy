@@ -14,7 +14,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Homelab Journey Part 9: Managing Everything with Portainer](https://joe-mccarthy.github.io/posts/26/07/homelab-journey-part-9-portainer/) (5 days ago)
+- [Homelab Journey Part 9: Managing Everything with Portainer](https://joe-mccarthy.github.io/posts/26/07/homelab-journey-part-9-portainer/) (6 days ago)
 - [The Tradeoff Mindset: Every Tool Has a Cost](https://joe-mccarthy.github.io/posts/26/07/every-tool-has-a-cost/) (1 week ago)
 - [Homelab Journey Part 8: Automation with Home Assistant](https://joe-mccarthy.github.io/posts/26/07/homelab-journey-part-8-home-assistant/) (2 weeks ago)
 
