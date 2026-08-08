@@ -14,7 +14,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Why I Prefer Boring Technology](https://joe-mccarthy.github.io/posts/26/08/prefer-boring-technology/) (5 days ago)
+- [Why I Prefer Boring Technology](https://joe-mccarthy.github.io/posts/26/08/prefer-boring-technology/) (6 days ago)
 - [Homelab Journey Part 9: Managing Everything with Portainer](https://joe-mccarthy.github.io/posts/26/07/homelab-journey-part-9-portainer/) (1 week ago)
 - [The Tradeoff Mindset: Every Tool Has a Cost](https://joe-mccarthy.github.io/posts/26/07/every-tool-has-a-cost/) (2 weeks ago)
 
