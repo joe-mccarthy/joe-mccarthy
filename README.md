@@ -14,9 +14,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Homelab Journey Part 10: What’s Working, What Isn’t, and What’s Next](https://joe-mccarthy.github.io/posts/26/08/homelab-journey-part-10-retrospective/) (6 days ago)
-- [Our First Camping Trip Together](https://joe-mccarthy.github.io/posts/26/08/first-camping-trip-with-my-son/) (6 days ago)
-- [Why I Prefer Boring Technology](https://joe-mccarthy.github.io/posts/26/08/prefer-boring-technology/) (1 week ago)
+- [How I Think About Reliability in Personal Projects](https://joe-mccarthy.github.io/posts/26/08/reliability-in-personal-projects/) (today)
+- [Homelab Journey Part 10: What’s Working, What Isn’t, and What’s Next](https://joe-mccarthy.github.io/posts/26/08/homelab-journey-part-10-retrospective/) (1 week ago)
+- [Our First Camping Trip Together](https://joe-mccarthy.github.io/posts/26/08/first-camping-trip-with-my-son/) (1 week ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
