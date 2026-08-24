@@ -14,7 +14,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Learning Slowly Is Still Learning](https://joe-mccarthy.github.io/posts/26/08/learning-slowly-is-still-learning/) (today)
+- [Learning Slowly Is Still Learning](https://joe-mccarthy.github.io/posts/26/08/learning-slowly-is-still-learning/) (1 day ago)
 - [How I Think About Reliability in Personal Projects](https://joe-mccarthy.github.io/posts/26/08/reliability-in-personal-projects/) (1 week ago)
 - [Homelab Journey Part 10: What’s Working, What Isn’t, and What’s Next](https://joe-mccarthy.github.io/posts/26/08/homelab-journey-part-10-retrospective/) (2 weeks ago)
 
