@@ -14,9 +14,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Learning Slowly Is Still Learning](https://joe-mccarthy.github.io/posts/26/08/learning-slowly-is-still-learning/) (6 days ago)
-- [How I Think About Reliability in Personal Projects](https://joe-mccarthy.github.io/posts/26/08/reliability-in-personal-projects/) (1 week ago)
-- [Homelab Journey Part 10: What’s Working, What Isn’t, and What’s Next](https://joe-mccarthy.github.io/posts/26/08/homelab-journey-part-10-retrospective/) (2 weeks ago)
+- [Building My Own i3 Desktop](https://joe-mccarthy.github.io/posts/26/08/building-my-own-i3-desktop/) (today)
+- [Learning Slowly Is Still Learning](https://joe-mccarthy.github.io/posts/26/08/learning-slowly-is-still-learning/) (1 week ago)
+- [How I Think About Reliability in Personal Projects](https://joe-mccarthy.github.io/posts/26/08/reliability-in-personal-projects/) (2 weeks ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
