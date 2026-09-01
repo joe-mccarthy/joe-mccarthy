@@ -14,7 +14,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [Building My Own i3 Desktop](https://joe-mccarthy.github.io/posts/26/08/building-my-own-i3-desktop/) (1 day ago)
+- [Building My Own i3 Desktop](https://joe-mccarthy.github.io/posts/26/08/building-my-own-i3-desktop/) (2 days ago)
 - [Learning Slowly Is Still Learning](https://joe-mccarthy.github.io/posts/26/08/learning-slowly-is-still-learning/) (1 week ago)
 - [How I Think About Reliability in Personal Projects](https://joe-mccarthy.github.io/posts/26/08/reliability-in-personal-projects/) (2 weeks ago)
 
