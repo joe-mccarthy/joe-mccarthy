@@ -14,7 +14,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [i3 Desktop Part 1: A Curated Session](https://joe-mccarthy.github.io/posts/26/09/i3-curated-session-and-autostart/) (1 day ago)
+- [i3 Desktop Part 1: A Curated Session](https://joe-mccarthy.github.io/posts/26/09/i3-curated-session-and-autostart/) (2 days ago)
 - [Building My Own i3 Desktop](https://joe-mccarthy.github.io/posts/26/08/building-my-own-i3-desktop/) (1 week ago)
 - [Learning Slowly Is Still Learning](https://joe-mccarthy.github.io/posts/26/08/learning-slowly-is-still-learning/) (2 weeks ago)
 
