@@ -14,7 +14,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [i3 Desktop Part 4: Media Controls and Radio](https://joe-mccarthy.github.io/posts/26/09/i3-media-and-radio/) (1 day ago)
+- [i3 Desktop Part 4: Media Controls and Radio](https://joe-mccarthy.github.io/posts/26/09/i3-media-and-radio/) (2 days ago)
 - [i3 Desktop Part 3: The Status Bar](https://joe-mccarthy.github.io/posts/26/09/i3blocks-status-bar/) (1 week ago)
 - [i3 Desktop Part 2: Launchers, Control Centre, and Key Help](https://joe-mccarthy.github.io/posts/26/09/i3-launchers-control-center-and-cheatsheet/) (2 weeks ago)
 
