@@ -14,8 +14,8 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [100 Posts Written](https://joe-mccarthy.github.io/posts/26/10/100-posts-written/) (2 days ago)
-- [i3 Desktop Part 5: Clipboard, Notifications, and Screenshots](https://joe-mccarthy.github.io/posts/26/10/i3-clipboard-notifications-screenshots/) (3 days ago)
+- [100 Posts Written](https://joe-mccarthy.github.io/posts/26/10/100-posts-written/) (3 days ago)
+- [i3 Desktop Part 5: Clipboard, Notifications, and Screenshots](https://joe-mccarthy.github.io/posts/26/10/i3-clipboard-notifications-screenshots/) (4 days ago)
 - [i3 Desktop Part 4: Media Controls and Radio](https://joe-mccarthy.github.io/posts/26/09/i3-media-and-radio/) (1 week ago)
 
 ### Recently Reads
