@@ -14,7 +14,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [i3 Desktop Part 6: Hardware Menus](https://joe-mccarthy.github.io/posts/26/10/i3-monitor-keyboard-network-audio/) (3 days ago)
+- [i3 Desktop Part 6: Hardware Menus](https://joe-mccarthy.github.io/posts/26/10/i3-monitor-keyboard-network-audio/) (4 days ago)
 - [100 Posts Written](https://joe-mccarthy.github.io/posts/26/10/100-posts-written/) (1 week ago)
 - [i3 Desktop Part 5: Clipboard, Notifications, and Screenshots](https://joe-mccarthy.github.io/posts/26/10/i3-clipboard-notifications-screenshots/) (1 week ago)
 
