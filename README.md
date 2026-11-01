@@ -14,9 +14,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [i3 Desktop Part 8: Theming the Whole Stack](https://joe-mccarthy.github.io/posts/26/10/i3-theming-and-apps/) (6 days ago)
-- [i3 Desktop Part 7: Notes and a Scratchpad Terminal](https://joe-mccarthy.github.io/posts/26/10/i3-notes-scratchpad-terminal/) (1 week ago)
-- [i3 Desktop Part 6: Hardware Menus](https://joe-mccarthy.github.io/posts/26/10/i3-monitor-keyboard-network-audio/) (2 weeks ago)
+- [i3 Desktop Part 9: Power, Locking, and Battery Safety](https://joe-mccarthy.github.io/posts/26/11/i3-power-lock-and-battery/) (today)
+- [i3 Desktop Part 8: Theming the Whole Stack](https://joe-mccarthy.github.io/posts/26/10/i3-theming-and-apps/) (1 week ago)
+- [i3 Desktop Part 7: Notes and a Scratchpad Terminal](https://joe-mccarthy.github.io/posts/26/10/i3-notes-scratchpad-terminal/) (2 weeks ago)
 
 ### Recently Reads
 - [The Universe in a Box (Andrew Pontzen)](https://amzn.eu/d/4b6D6UB)
