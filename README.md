@@ -14,7 +14,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [i3 Desktop Part 9: Power, Locking, and Battery Safety](https://joe-mccarthy.github.io/posts/26/11/i3-power-lock-and-battery/) (3 days ago)
+- [i3 Desktop Part 9: Power, Locking, and Battery Safety](https://joe-mccarthy.github.io/posts/26/11/i3-power-lock-and-battery/) (4 days ago)
 - [i3 Desktop Part 8: Theming the Whole Stack](https://joe-mccarthy.github.io/posts/26/10/i3-theming-and-apps/) (1 week ago)
 - [i3 Desktop Part 7: Notes and a Scratchpad Terminal](https://joe-mccarthy.github.io/posts/26/10/i3-notes-scratchpad-terminal/) (2 weeks ago)
 
