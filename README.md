@@ -2,9 +2,9 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Latest Projects
 
+- [joe-mccarthy/engineering](https://github.com/joe-mccarthy/engineering) - 
 - [joe-mccarthy/termfolio](https://github.com/joe-mccarthy/termfolio) - Terminal-inspired Hugo theme for blogs, portfolios, and project indexes, with shell-style navigation, local fonts, no tracking, and no runtime external dependencies.
 - [joe-mccarthy/odometer](https://github.com/joe-mccarthy/odometer) - A local-first CLI tool for tracking the true cost of vehicle ownership
-- [joe-mccarthy/.github](https://github.com/joe-mccarthy/.github) - My user root GitHub repository for defaults.
 
 ### Recent Stars
 
@@ -14,7 +14,7 @@ Hey, I’m Joe — a software engineer who loves building things, breaking them,
 
 ### Recent Posts
 
-- [i3 Desktop Part 9: Power, Locking, and Battery Safety](https://joe-mccarthy.github.io/posts/26/11/i3-power-lock-and-battery/) (5 days ago)
+- [i3 Desktop Part 9: Power, Locking, and Battery Safety](https://joe-mccarthy.github.io/posts/26/11/i3-power-lock-and-battery/) (6 days ago)
 - [i3 Desktop Part 8: Theming the Whole Stack](https://joe-mccarthy.github.io/posts/26/10/i3-theming-and-apps/) (1 week ago)
 - [i3 Desktop Part 7: Notes and a Scratchpad Terminal](https://joe-mccarthy.github.io/posts/26/10/i3-notes-scratchpad-terminal/) (2 weeks ago)
 
